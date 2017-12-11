@@ -2,7 +2,9 @@
 
 I haven't finished this project yet! There will be interactive component and text analysis :D
 
-**There have been <span>273</span> mass shootings in 2014, <span>333</span> in 2015, <span>383</span> in 2016, and <span>328</span> in 2017 so far. Since Jan. 1, 2014, at least <span>1,513</span> people have been killed and <span>5,693</span> have been injured in mass shootings.**
+**There have been 273 mass shootings in 2014, 333 in 2015, 383 in 2016, and 328 in 2017 so far.**
+
+**Since Jan. 1, 2014, at least <span>1,513</span> people have been killed and <span>5,693</span> have been injured in mass shootings.**
 
 Oct. 1, 2017 | Las Vagas, NV:
 A gunman opens fire on a country music festival. At least 59 were killed and 527 were injured.
