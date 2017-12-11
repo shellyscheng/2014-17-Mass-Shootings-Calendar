@@ -1,5 +1,5 @@
-# 2014-2017 Shooting Calendar
+# 2014-2017 Shooting Calendar (In Progress)
 
-This project hasn't been finished yet! I will add more interactive component to my calendar below very soon. There will also be more text analysis!!
+I haven't finished this project yet! There will be interactive component and text analysis :D
 
 Project is visible at https://shiyingcheng.github.io/2014-17-Shooting-Calendar/
