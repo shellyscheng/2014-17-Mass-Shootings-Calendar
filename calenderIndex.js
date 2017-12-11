@@ -13,7 +13,7 @@
 
   var xPositionScale = d3.scaleBand()
     .domain(["0", "1", "2", "3", "4", "5", "6"])
-    .range([350, 800])
+    .range([300, 700])
     .padding(0.2);
 
   var colorScale = d3.scaleQuantize()
@@ -56,7 +56,7 @@
     svg.append("text")
         .attr("y", 14)
         .attr("x", 0)
-        .text("Number of shootings happend on a certain day:")
+        .text("Mass shooting incidents on a certain day:")
         .attr("font-size", 16)
         .attr("fill", 'black')
         .attr("font-family", "Helvetica")
