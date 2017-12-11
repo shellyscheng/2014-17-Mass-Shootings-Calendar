@@ -5,13 +5,13 @@ I haven't finished this project yet! There will be interactive component and tex
 **There have been 273 mass shootings in 2014, 333 in 2015, 383 in 2016, and 328 in 2017 so far.Since Jan. 1, 2014, at least <span>1,513</span> people have been killed and <span>5,693</span> have been injured in mass shootings.**
 
 **Oct. 1, 2017 | Las Vagas, NV:**
-A gunman opens fire on a country music festival. At least 59 were killed and 527 were injured.
+A gunman opened fire on a country music festival. At least 59 were killed and 527 were injured.
 
 **Nov. 5, 2017 | Sutherland Springs, TX:**
-A gunman opens fire inside a church. At least 27 were killed and 20 were injured.
+A gunman opened fire inside a church. At least 27 were killed and 20 were injured.
 
 **Jun. 12, 2016 | Orlando, FL:**
-A gunman opens fire in a nightclub, leaving 50 dead and 53 wounded.
+A gunman opened fire in a nightclub, leaving 50 dead and 53 wounded.
 
 **Dec. 2, 2015 | San Bernardino, CA:**
 16 people were killed and 19 others were injured in a terrorist attack consisting of a mass shooting and an attempted bombing at the Inland Regional Center.
