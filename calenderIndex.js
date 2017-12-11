@@ -13,16 +13,16 @@
 
   var xPositionScale = d3.scaleBand()
     .domain(["0", "1", "2", "3", "4", "5", "6"])
-    .range([240, 800])
-    .padding(0.5);
+    .range([350, 800])
+    .padding(0.2);
 
   var colorScale = d3.scaleQuantize()
       .domain([0, 6])
-      .range(['#ffffff','#fef0d9','#fdcc8a','#fc8d59','#e34a33','#b30000']);
+      .range(['#ffffff','#fee5d9','#fcbba1','#fc9272','#fb6a4a','#de2d26','#a50f15']);
 
   d3.queue()
     .defer(d3.csv, "RawData/index.csv", function(d) {
-      d['0'] = +d['0']
+      d.no = +d.no
       return d
     })
     .await(ready);
@@ -37,17 +37,17 @@
         .attr("height", 17)
         .attr("width", 17 )
         .attr("y", 0)
-        .attr("x", function(d, i) { return xPositionScale(d['0'])})
-        .attr("fill", function(d) { return colorScale(d['0'])})
+        .attr("x", function(d, i) { return xPositionScale(d.no)})
+        .attr("fill", function(d) { return colorScale(d.no)})
         .attr("stroke", 'black')
 
     svg.selectAll("text")
         .data(datapoints)
         .enter().append("text")
         .attr("y", 14)
-        .attr("x", function(d, i) { return xPositionScale(d['0'])})
-        .text(function(d) { return d['0'] })
-        .attr("dx", 30)
+        .attr("x", function(d, i) { return xPositionScale(d.no)})
+        .text(function(d) { return d.no })
+        .attr("dx", 25)
         .attr("font-size", 14)
         .attr("fill", 'black')
         .attr("font-family", "Helvetica")
