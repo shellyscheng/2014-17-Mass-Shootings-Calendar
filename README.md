@@ -7,7 +7,7 @@ I haven't finished this project yet! There will be interactive component and tex
 **Oct. 1, 2017 | Las Vagas, NV:**
 A gunman opens fire on a country music festival. At least 59 were killed and 527 were injured.
 
-**NOV. 5, 2017 | Sutherland Springs, TX:**
+**Nov. 5, 2017 | Sutherland Springs, TX:**
 A gunman opens fire inside a church. At least 27 were killed and 20 were injured.
 
 **Jun. 12, 2016 | Orlando, FL:**
