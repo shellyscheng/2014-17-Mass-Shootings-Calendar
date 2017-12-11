@@ -1,4 +1,4 @@
-# 2014-2017 Shooting Calendar (In Progress)
+# 2014-2017 Mass Shooting Calendars (In Progress)
 
 I haven't finished this project yet! There will be interactive component and text analysis :D
 
