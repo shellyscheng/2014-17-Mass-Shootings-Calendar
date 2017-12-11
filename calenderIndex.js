@@ -21,7 +21,7 @@
       .range(['#ffffff','#fee5d9','#fcbba1','#fc9272','#fb6a4a','#de2d26','#a50f15']);
 
   d3.queue()
-    .defer(d3.csv, "RawData/index.csv", function(d) {
+    .defer(d3.csv, "Data/index.csv", function(d) {
       d.no = +d.no
       return d
     })
