@@ -13,8 +13,7 @@
 
   var xPositionScale = d3.scaleBand()
     .domain(["0", "1", "2", "3", "4", "5", "6"])
-    .range([300, 700])
-    .padding(0.2);
+    .range([300, 420])
 
   var colorScale = d3.scaleQuantize()
       .domain([0, 6])
@@ -41,16 +40,16 @@
         .attr("fill", function(d) { return colorScale(d.no)})
         .attr("stroke", 'black')
 
-    svg.selectAll("text")
-        .data(datapoints)
-        .enter().append("text")
-        .attr("y", 14)
-        .attr("x", function(d, i) { return xPositionScale(d.no)})
-        .text(function(d) { return d.no })
-        .attr("dx", 25)
-        .attr("font-size", 14)
-        .attr("fill", 'black')
-        .attr("font-family", "Helvetica")
+    // svg.selectAll("text")
+    //     .data(datapoints)
+    //     .enter().append("text")
+    //     .attr("y", 14)
+    //     .attr("x", function(d, i) { return xPositionScale(d.no)})
+    //     .text(function(d) { return d.no })
+    //     .attr("dx", 25)
+    //     .attr("font-size", 14)
+    //     .attr("fill", 'black')
+    //     .attr("font-family", "Helvetica")
 
 
     svg.append("text")
