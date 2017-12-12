@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1953 1115" style="enable-background:new 0 0 1953 1115;" xml:space="preserve">
 <style type="text/css">
 	.st0{font-family:'Helvetica';}
@@ -10,13 +10,13 @@
 	.st4{font-family:'Helvetica-Bold';}
 	.st5{fill:none;stroke:#969696;stroke-width:1.5;stroke-miterlimit:10;}
 	.st6{fill:#969696;}
-	.st7{fill:#616161;}
-	.st8{fill:#616161;stroke:#969696;stroke-width:1.5;stroke-miterlimit:10;}
-	.st9{fill:#616161;stroke:#969696;stroke-miterlimit:10;}
+	.st7{fill:none;}
+	.st8{fill:#616161;stroke:#969696;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#969696;stroke-miterlimit:10;}
 </style>
-<g id="Layer_1">
+<g id="Layer_1_1_">
 	
-		<image style="overflow:visible;" width="1936" height="1168" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB44AAASPCAYAAADx1dI9AAAACXBIWXMAAA+vAAAPrwHWpCJtAAAA
+		<image style="overflow:visible;enable-background:new    ;" width="1934" height="1167" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB44AAASPCAYAAADx1dI9AAAACXBIWXMAAA+vAAAPrwHWpCJtAAAA
 GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAlR5JREFUeNrs3W+IZtd5GPAzf9/5
 o9GuNLNSduyVhEVWlhNZAkFCwH9WpEkg4C+OmoBjYveTIdASki9Ok1ZKqhY3raPSQqD60qQfDC02
 tJTkU0FSLRIcWJCcVrI2lbqrkWe7qxlpd2fm3Xnnb+e8u3d3x5ZjBeo+z/b8fnB19UFwH8499zz3
@@ -687,10 +687,10 @@ cQwAAAAAAAAQZxwDAAAAAAAAxBnHAAAAAAAAAHHGMQAAAAAAAECccQwAAAAAAAAQZxwDAAAAAAAA
 xBnHAAAAAAAAAHHGMQAAAAAAAECccQwAAAAAAAAQZxwDAAAAAAAAxBnHAAAAAAAAAHHGMQAAAAAA
 AECccQwAAAAAAAAQZxwDAAAAAAAAxBnHAAAAAAAAAHHGMQAAAAAAAECccQwAAAAAAAAQZxwDAAAA
 AAAAxBnHAAAAAAAAAHHGMQAAAAAAAECccQwAAAAAAAAQZxwDAAAAAAAAxBnHAAAAAAAAAHHGMQAA
-AAAAAAAAAAAAAAAAAAAAAAAAAEDWAQ7p7uhKvSdDAAAAAElFTkSuQmCC" transform="matrix(0.7042 0 0 0.7042 237.9577 119.507)">
+AAAAAAAAAAAAAAAAAAAAAAAAAEDWAQ7p7uhKvSdDAAAAAElFTkSuQmCC" transform="matrix(0.7049 0 0 0.7048 237.9577 119.507)">
 	</image>
 	
-		<image style="overflow:visible;" width="421" height="114" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaYAAAByCAYAAAAYqXWOAAAACXBIWXMAABYlAAAWJQFJUiTwAAAA
+		<image style="overflow:visible;enable-background:new    ;" width="422" height="114" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaYAAAByCAYAAAAYqXWOAAAACXBIWXMAABYlAAAWJQFJUiTwAAAA
 GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA0ZJREFUeNrs2D9oE1EcwPEXLYgI
 Vm7wbxD/ZFLIoJPoECkOoosIrg6Ci3QStAjShA6awUUnHR0d3IqL0gxdorgY6BLEKsR/ELH+IZPW
 5IZgNilR7p2fDwTeLQe/e4Tv3Sus9gUAyIBC3zqPAYAsESYAhAkAhAkAYQIAYQJAmABAmAAQJgAQ
@@ -706,7 +706,7 @@ TAAIEwAIEwDCBADCBADCBIAwAcCfmPgbN63Varl5QHO37uRmlpedD+HG/Ye5mac+v5ibWZ68ep/+
 8uLe8rvczLKw8kUp/rHCat84QlStVj1NgAzrdrshSZJsR6nPUR4AmTK2o7y8fDH1er3QbDaH15VK
 Jep5Go1GbmbpdDqh3W6n68FbX7lctjcZ0Wq10rfxgVKpFIrFor1h7V9N4zjKA4CxRMlRHgBZI0wA
 CBMACBMAwgQAwgSAMAGAMAEgTAAgTAAIEwAIEwAIEwDCBADCBIAwAYAwASBMACBMAAgTAAgTAMIE
-AMIEAMIEgDABgDABIEwAsDa/BBgAnZKmWTU+xmcAAAAASUVORK5CYII=" transform="matrix(0.5 0 0 0.5 1322 23)">
+AMIEAMIEgDABgDABIEwAsDa/BBgAnZKmWTU+xmcAAAAASUVORK5CYII=" transform="matrix(0.4988 0 0 0.5 1322 23)">
 	</image>
 </g>
 <g id="year">
@@ -748,7 +748,9 @@ AMIEAMIEgDABgDABIEwAsDa/BBgAnZKmWTU+xmcAAAAASUVORK5CYII=" transform="matrix(0.5 
 		</g>
 	</g>
 	<text transform="matrix(1 0 0 1 876 995)" class="st6 st4 st2">Oct 1, 2017 | Las Vagas, NV</text>
-	<text transform="matrix(1 0 0 1 829.667 1021.667)"><tspan x="0" y="0" class="st0 st2">A gunman opened fire on a country </tspan><tspan x="0" y="21.6" class="st0 st2">music festival. At least 59 were killed </tspan><tspan x="0" y="43.2" class="st0 st2">and 527 were injured.</tspan></text>
+	<text transform="matrix(1 0 0 1 829.667 1021.667)" class="st0 st2">A gunman opened fire on a country </text>
+	<text transform="matrix(1 0 0 1 829.667 1043.267)" class="st0 st2">music festival. At least 59 were killed </text>
+	<text transform="matrix(1 0 0 1 829.667 1064.8669)" class="st0 st2">and 527 were injured.</text>
 	<line class="st5" x1="1190" y1="926" x2="1035" y2="926"/>
 	<line class="st5" x1="1035" y1="926" x2="1035" y2="957"/>
 	<line class="st5" x1="1367" y1="925" x2="1367" y2="956"/>
@@ -760,11 +762,12 @@ AMIEAMIEgDABgDABIEwAsDa/BBgAnZKmWTU+xmcAAAAASUVORK5CYII=" transform="matrix(0.5 
 			<line class="st5" x1="830.5" y1="537.2" x2="830" y2="926"/>
 			<g>
 				
-					<ellipse transform="matrix(1.276153e-03 -1 1 1.276153e-03 292.0544 1367.1948)" class="st6" cx="830.5" cy="537.4" rx="3.4" ry="3.4"/>
+					<ellipse transform="matrix(1.276152e-03 -1 1 1.276152e-03 292.0742 1367.2085)" class="st6" cx="830.5" cy="537.4" rx="3.4" ry="3.4"/>
 			</g>
 		</g>
 	</g>
-	<text transform="matrix(1 0 0 1 283.667 1016.667)"><tspan x="0" y="0" class="st0 st2">A gunman opened fire in a nightclub, </tspan><tspan x="0" y="21.6" class="st0 st2">leaving 50 dead and 53 wounded.</tspan></text>
+	<text transform="matrix(1 0 0 1 283.667 1016.667)" class="st0 st2">A gunman opened fire in a nightclub, </text>
+	<text transform="matrix(1 0 0 1 283.667 1038.267)" class="st0 st2">leaving 50 dead and 53 wounded.</text>
 	<line class="st5" x1="830" y1="926" x2="348" y2="926"/>
 	<line class="st5" x1="348" y1="926" x2="348" y2="957"/>
 </g>
@@ -779,7 +782,9 @@ AMIEAMIEgDABgDABIEwAsDa/BBgAnZKmWTU+xmcAAAAASUVORK5CYII=" transform="matrix(0.5 
 	</g>
 	<line class="st5" x1="1701" y1="460" x2="1702" y2="460"/>
 	<text transform="matrix(1 0 0 1 1592 217)" class="st6 st4 st2">Dec 2, 2015 | San Bernardino, CA</text>
-	<text transform="matrix(1 0 0 1 1591.667 243.667)"><tspan x="0" y="0" class="st0 st2">A terrorist attack consisting of a mass </tspan><tspan x="0" y="21.6" class="st0 st2">shooting took place, leaving16 people </tspan><tspan x="0" y="43.2" class="st0 st2">were killed and 19 others were injured.</tspan></text>
+	<text transform="matrix(1 0 0 1 1591.667 243.667)" class="st0 st2">A terrorist attack consisting of a mass </text>
+	<text transform="matrix(1 0 0 1 1591.667 265.267)" class="st0 st2">shooting took place, leaving16 people </text>
+	<text transform="matrix(1 0 0 1 1591.667 286.867)" class="st0 st2">killed and 19 others injured.</text>
 	<line class="st5" x1="1701" y1="416" x2="1701" y2="307"/>
 	<line class="st5" x1="1814" y1="441" x2="1816" y2="441"/>
 	<line class="st5" x1="1528" y1="750" x2="1528" y2="810"/>
@@ -796,7 +801,11 @@ AMIEAMIEgDABgDABIEwAsDa/BBgAnZKmWTU+xmcAAAAASUVORK5CYII=" transform="matrix(0.5 
 	</g>
 	<line class="st5" x1="1701" y1="441" x2="1701" y2="506"/>
 	<text transform="matrix(1 0 0 1 1592 542)" class="st6 st4 st2">Oct 1, 2015 | Roseburg, OR</text>
-	<text transform="matrix(1 0 0 1 1591.667 568.667)"><tspan x="0" y="0" class="st0 st2">An enrolled student at the Umpqua </tspan><tspan x="0" y="21.6" class="st0 st2">Community College fatally shot an </tspan><tspan x="0" y="43.2" class="st0 st2">assistant professor and students in </tspan><tspan x="0" y="64.8" class="st0 st2">a classroom. 10 people were dead </tspan><tspan x="0" y="86.4" class="st0 st2">and nine were injured.</tspan></text>
+	<text transform="matrix(1 0 0 1 1591.667 568.667)" class="st0 st2">An enrolled student at the Umpqua </text>
+	<text transform="matrix(1 0 0 1 1591.667 590.267)" class="st0 st2">Community College fatally shot an </text>
+	<text transform="matrix(1 0 0 1 1591.667 611.867)" class="st0 st2">assistant professor and students in </text>
+	<text transform="matrix(1 0 0 1 1591.667 633.467)" class="st0 st2">a classroom. 10 people were dead </text>
+	<text transform="matrix(1 0 0 1 1591.667 655.067)" class="st0 st2">and nine were injured.</text>
 </g>
 <g id="Teax">
 	<g>
@@ -809,17 +818,19 @@ AMIEAMIEgDABgDABIEwAsDa/BBgAnZKmWTU+xmcAAAAASUVORK5CYII=" transform="matrix(0.5 
 		</g>
 	</g>
 	<text transform="matrix(1 0 0 1 1337 995)" class="st6 st4 st2">Nov 5, 2017 | Sutherland Springs, TX</text>
-	<text transform="matrix(1 0 0 1 1336.667 1021.667)"><tspan x="0" y="0" class="st0 st2">A gunman opened fire inside a church. </tspan><tspan x="0" y="21.6" class="st0 st2">At least 27 were killed and 20 were </tspan><tspan x="0" y="43.2" class="st0 st2">injured.</tspan></text>
-	<line class="st8" x1="1308" y1="926" x2="1366" y2="926"/>
+	<text transform="matrix(1 0 0 1 1336.667 1021.667)" class="st0 st2">A gunman opened fire inside a church. </text>
+	<text transform="matrix(1 0 0 1 1336.667 1043.267)" class="st0 st2">At least 27 were killed and 20 were </text>
+	<text transform="matrix(1 0 0 1 1336.667 1064.8669)" class="st0 st2">injured.</text>
+	<line class="st5" x1="1308" y1="926" x2="1366" y2="926"/>
 </g>
 <g id="_x31_2-11">
-	<path class="st9" d="M1418.5,762.5"/>
-	<path class="st9" d="M1425.5,756.5"/>
+	<path class="st8" d="M1418.5,762.5"/>
+	<path class="st8" d="M1425.5,756.5"/>
 	<line class="st9" x1="1418.5" y1="762.5" x2="1440.5" y2="738.5"/>
 	<line class="st9" x1="1418.5" y1="753.5" x2="1432.5" y2="738.5"/>
 	<line class="st9" x1="1417.5" y1="746.5" x2="1424.5" y2="738.5"/>
 	<line class="st9" x1="1434.5" y1="761.5" x2="1441.5" y2="753.5"/>
-	<polyline class="st9" points="1427.5,761.5 1433.9,754.6 1441.5,746.5 	"/>
+	<polyline class="st8" points="1427.5,761.5 1433.9,754.6 1441.5,746.5 	"/>
 	<g>
 		<line class="st7" x1="1426" y1="751" x2="1527" y2="751"/>
 		<g>
@@ -830,6 +841,8 @@ AMIEAMIEgDABgDABIEwAsDa/BBgAnZKmWTU+xmcAAAAASUVORK5CYII=" transform="matrix(0.5 
 		</g>
 	</g>
 	<text transform="matrix(1 0 0 1 1591 784)" class="st6 st4 st2">Dec 11, 2017</text>
-	<text transform="matrix(1 0 0 1 1590 811)"><tspan x="0" y="0" class="st3 st4 st2">Since 2014, at least 1,513 people</tspan><tspan x="0" y="21.6" class="st3 st4 st2">have been killed and 5,693 have</tspan><tspan x="0" y="43.2" class="st3 st4 st2">been injured in mass shootings.</tspan></text>
+	<text transform="matrix(1 0 0 1 1590 811)" class="st3 st4 st2">Since 2014, at least 1,513 people</text>
+	<text transform="matrix(1 0 0 1 1590 832.6)" class="st3 st4 st2">have been killed and 5,693 have</text>
+	<text transform="matrix(1 0 0 1 1590 854.2)" class="st3 st4 st2">been injured in mass shootings.</text>
 </g>
 </svg>
