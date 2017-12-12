@@ -1,4 +1,4 @@
-# 1440 Days. 1317 Mass Shootings. Zero Action from Congress.
+# 1440 Days, 1317 Mass Shootings, and Zero Action from Congress.
 
 
 **Since Jan. 1, 2014, at least 1,513 people have been killed and 5,693 have been injured in mass shootings.**
