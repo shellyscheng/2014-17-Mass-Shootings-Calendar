@@ -16,7 +16,7 @@ A gunman opened fire in a nightclub, leaving 50 dead and 53 wounded.
 **Dec. 2, 2015 | San Bernardino, CA:**
 16 people were killed and 19 others were injured in a terrorist attack consisting of a mass shooting and an attempted bombing at the Inland Regional Center.
 
-**Oct. 1, 2015 | Roseburg, Oregon:**
+**Oct. 1, 2015 | Roseburg, OR:**
 Chris Harper-Mercer, a 26-year-old enrolled at the school, fatally shot an assistant professor and students in a classroom. 10 people were dead and nine were injured.
 
 
