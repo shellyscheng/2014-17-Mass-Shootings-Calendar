@@ -22,5 +22,7 @@ A gunman opened fire in a nightclub, leaving 50 dead and 53 wounded.
 Chris Harper-Mercer, a 26-year-old enrolled at the school, fatally shot an assistant professor and students in a classroom. 10 people were dead and nine were injured.
 
 
+Design of the calendar is inspired by Mike Bostock.
+
 
 Project is visible at https://shiyingcheng.github.io/2014-17-Mass-Shootings-Calendar/
