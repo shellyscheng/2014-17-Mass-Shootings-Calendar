@@ -8,21 +8,20 @@
 	.st2{font-size:18px;}
 	.st3{fill:#A50F15;}
 	.st4{font-family:'Helvetica-Bold';}
-	.st5{fill:none;stroke:#525252;stroke-width:1.5;stroke-miterlimit:10;}
-	.st6{fill:#525252;stroke:#525252;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#525252;stroke-width:2;stroke-miterlimit:10;}
+	.st6{fill:#525252;stroke:#525252;stroke-width:2;stroke-miterlimit:10;}
 	.st7{fill:#525252;}
-	.st8{fill:none;stroke:#525252;stroke-width:2;stroke-miterlimit:10;}
-	.st9{fill:#525252;stroke:#525252;stroke-width:2;stroke-miterlimit:10;}
-	.st10{fill:none;stroke:#969696;stroke-width:1.5;stroke-miterlimit:10;}
-	.st11{fill:#616161;stroke:#525252;stroke-miterlimit:10;}
-	.st12{fill:none;stroke:#525252;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#525252;stroke-width:1.5;stroke-miterlimit:10;}
+	.st9{fill:#616161;stroke:#525252;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#525252;stroke-miterlimit:10;}
+	.st11{fill:#525252;stroke:#525252;stroke-miterlimit:10;}
 </style>
 <g id="Layer_1_1_">
 	
-		<image style="overflow:visible;enable-background:new    ;" width="1934" height="1167" xlink:href="3A21E2F6CFA9348F.png"  transform="matrix(0.7049 0 0 0.7048 237.9577 119.507)">
+		<image style="overflow:visible;enable-background:new    ;" width="1934" height="1167" xlink:href="3A21E2F6CFA9348C.png"  transform="matrix(0.7049 0 0 0.7048 237.9577 119.507)">
 	</image>
 	
-		<image style="overflow:visible;enable-background:new    ;" width="422" height="114" xlink:href="3A21E2F6CFA9348D.png"  transform="matrix(0.4988 0 0 0.5 1322 23)">
+		<image style="overflow:visible;enable-background:new    ;" width="422" height="114" xlink:href="3A21E2F6CFA9348B.png"  transform="matrix(0.4988 0 0 0.5 1322 23)">
 	</image>
 </g>
 <g id="year">
@@ -69,53 +68,53 @@
 	<text transform="matrix(1 0 0 1 829.667 1064.8669)" class="st0 st2">and 527 were injured.</text>
 	<line class="st5" x1="1190" y1="926" x2="1035" y2="926"/>
 	<line class="st5" x1="1035" y1="926" x2="1035" y2="957"/>
-	<line class="st8" x1="1367" y1="925" x2="1367" y2="956"/>
+	<line class="st5" x1="1367" y1="925" x2="1367" y2="956"/>
 </g>
 <g id="Orlando">
 	<text transform="matrix(1 0 0 1 287 989)" class="st7 st4 st2">Jun 12, 2016 | Orlando, FL</text>
 	<g>
 		<g>
-			<line class="st8" x1="830.5" y1="537.2" x2="830" y2="926"/>
+			<line class="st5" x1="830.5" y1="537.2" x2="830" y2="926"/>
 			<g>
 				
-					<ellipse transform="matrix(1.276149e-03 -1 1 1.276149e-03 291.9861 1367.2933)" class="st9" cx="830.5" cy="537.5" rx="3.4" ry="3.4"/>
+					<ellipse transform="matrix(1.276147e-03 -1 1 1.276147e-03 291.983 1367.4049)" class="st6" cx="830.6" cy="537.5" rx="3.4" ry="3.4"/>
 			</g>
 		</g>
 	</g>
 	<text transform="matrix(1 0 0 1 283.667 1016.667)" class="st0 st2">A gunman opened fire in a nightclub, </text>
 	<text transform="matrix(1 0 0 1 283.667 1038.267)" class="st0 st2">leaving 50 dead and 53 wounded.</text>
-	<line class="st8" x1="830" y1="926" x2="348" y2="926"/>
-	<line class="st8" x1="348" y1="926" x2="348" y2="957"/>
+	<line class="st5" x1="830" y1="926" x2="348" y2="926"/>
+	<line class="st5" x1="348" y1="926" x2="348" y2="957"/>
 </g>
 <g id="CA">
 	<g>
 		<g>
-			<line class="st8" x1="1405.2" y1="416" x2="1701" y2="416"/>
+			<line class="st5" x1="1405.2" y1="416" x2="1701" y2="416"/>
 			<g>
-				<circle class="st9" cx="1405.4" cy="416" r="3.4"/>
+				<circle class="st6" cx="1405.4" cy="416" r="3.4"/>
 			</g>
 		</g>
 	</g>
-	<line class="st10" x1="1701" y1="460" x2="1702" y2="460"/>
+	<line class="st8" x1="1701" y1="460" x2="1702" y2="460"/>
 	<text transform="matrix(1 0 0 1 1592 217)" class="st7 st4 st2">Dec 2, 2015 | San Bernardino, CA</text>
-	<text transform="matrix(1 0 0 1 1591.667 243.667)" class="st0 st2">A terrorist attack consisting of a mass </text>
-	<text transform="matrix(1 0 0 1 1591.667 265.267)" class="st0 st2">shooting took place, leaving 16 people </text>
-	<text transform="matrix(1 0 0 1 1591.667 286.867)" class="st0 st2">dead and 19 others injured.</text>
-	<line class="st8" x1="1701" y1="416" x2="1701" y2="307"/>
-	<line class="st10" x1="1814" y1="441" x2="1816" y2="441"/>
-	<line class="st8" x1="1528" y1="750" x2="1528" y2="810"/>
-	<line class="st8" x1="1527.5" y1="810.5" x2="1564.5" y2="810.5"/>
+	<text transform="matrix(1 0 0 1 1591.667 243.667)" class="st7 st0 st2">A terrorist attack consisting of a mass </text>
+	<text transform="matrix(1 0 0 1 1591.667 265.267)" class="st7 st0 st2">shooting took place, leaving 16 people </text>
+	<text transform="matrix(1 0 0 1 1591.667 286.867)" class="st7 st0 st2">dead and 19 others injured.</text>
+	<line class="st5" x1="1701" y1="416" x2="1701" y2="307"/>
+	<line class="st8" x1="1814" y1="441" x2="1816" y2="441"/>
+	<line class="st5" x1="1528" y1="750" x2="1528" y2="810"/>
+	<line class="st5" x1="1527.5" y1="810.5" x2="1564.5" y2="810.5"/>
 </g>
 <g id="Oregan">
 	<g>
 		<g>
-			<line class="st8" x1="1189.2" y1="441" x2="1701" y2="441"/>
+			<line class="st5" x1="1189.2" y1="441" x2="1701" y2="441"/>
 			<g>
 				<circle class="st6" cx="1189.4" cy="441" r="3.4"/>
 			</g>
 		</g>
 	</g>
-	<line class="st8" x1="1701" y1="441" x2="1701" y2="506"/>
+	<line class="st5" x1="1701" y1="441" x2="1701" y2="506"/>
 	<text transform="matrix(1 0 0 1 1592 542)" class="st7 st4 st2">Oct 1, 2015 | Roseburg, OR</text>
 	<text transform="matrix(1 0 0 1 1591.667 568.667)" class="st0 st2">An enrolled student at the Umpqua </text>
 	<text transform="matrix(1 0 0 1 1591.667 590.267)" class="st0 st2">Community College fatally shot an </text>
@@ -125,11 +124,11 @@
 </g>
 <g id="Teax">
 	<g>
-		<line class="st8" x1="1307" y1="726" x2="1307" y2="926"/>
+		<line class="st5" x1="1308" y1="726" x2="1308" y2="926"/>
 		<g>
-			<line class="st8" x1="1307" y1="729.2" x2="1307" y2="926"/>
+			<line class="st5" x1="1308" y1="729.2" x2="1308" y2="926"/>
 			<g>
-				<circle class="st9" cx="1307" cy="729.4" r="3.4"/>
+				<circle class="st6" cx="1308" cy="729.4" r="3.4"/>
 			</g>
 		</g>
 	</g>
@@ -137,22 +136,22 @@
 	<text transform="matrix(1 0 0 1 1336.667 1021.667)" class="st0 st2">A gunman opened fire inside a church. </text>
 	<text transform="matrix(1 0 0 1 1336.667 1043.267)" class="st0 st2">At least 27 were killed and 20 were </text>
 	<text transform="matrix(1 0 0 1 1336.667 1064.8669)" class="st0 st2">injured.</text>
-	<line class="st8" x1="1308" y1="926" x2="1366" y2="926"/>
+	<line class="st5" x1="1308" y1="926" x2="1366" y2="926"/>
 </g>
 <g id="_x31_2-11">
-	<path class="st11" d="M1418.5,762.5"/>
-	<path class="st11" d="M1425.5,756.5"/>
-	<line class="st12" x1="1418.5" y1="762.5" x2="1440.5" y2="738.5"/>
-	<line class="st12" x1="1418.5" y1="753.5" x2="1432.5" y2="738.5"/>
-	<line class="st12" x1="1417.5" y1="746.5" x2="1424.5" y2="738.5"/>
-	<line class="st12" x1="1434.5" y1="761.5" x2="1441.5" y2="753.5"/>
-	<polyline class="st11" points="1427.5,761.5 1433.9,754.6 1441.5,746.5 	"/>
+	<path class="st9" d="M1418.5,762.5"/>
+	<path class="st9" d="M1425.5,756.5"/>
+	<line class="st10" x1="1418.5" y1="762.5" x2="1440.5" y2="738.5"/>
+	<line class="st10" x1="1418.5" y1="753.5" x2="1432.5" y2="738.5"/>
+	<line class="st10" x1="1417.5" y1="746.5" x2="1424.5" y2="738.5"/>
+	<line class="st10" x1="1434.5" y1="761.5" x2="1441.5" y2="753.5"/>
+	<polyline class="st9" points="1427.5,761.5 1433.9,754.6 1441.5,746.5 	"/>
 	<g>
-		<line class="st12" x1="1426" y1="751" x2="1527" y2="751"/>
+		<line class="st10" x1="1426" y1="751" x2="1527" y2="751"/>
 		<g>
-			<line class="st5" x1="1429.2" y1="751" x2="1527" y2="751"/>
+			<line class="st8" x1="1429.2" y1="751" x2="1527" y2="751"/>
 			<g>
-				<circle class="st6" cx="1429.4" cy="751" r="3.4"/>
+				<circle class="st11" cx="1429.4" cy="751" r="3.4"/>
 			</g>
 		</g>
 	</g>
