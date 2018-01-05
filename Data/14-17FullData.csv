@@ -988,331 +988,348 @@
 380,1/8/16,Illinois,Chicago,1500 block of South Kedzie,1,4,0.0,2016-01-08
 381,1/7/16,Tennessee,Memphis,3800 block of Kerwood Avenue,1,3,0.0,2016-01-07
 382,1/6/16,Florida,Lakeland,2312 East Magnolia Street,3,1,0.0,2016-01-06
-0,12/6/17,Illinois,Chicago,4620 N Broadway,0,4,0.0,2017-12-06
-1,12/4/17,Pennsylvania,Pittsburgh,7200 block of Everton St,2,2,0.0,2017-12-04
-2,12/3/17,Tennessee,Memphis,656 Marshall Ave,1,3,0.0,2017-12-03
-3,12/2/17,Michigan,Detroit,5200 Woodward Avenue,0,4,0.0,2017-12-02
-4,11/30/17,Michigan,Detroit,11000 block of Gunston,1,4,0.0,2017-11-30
-5,11/24/17,Mississippi,Brookhaven,119 Martin Street,1,6,0.0,2017-11-24
-6,11/24/17,Ohio,Cleveland,11618 Buckeye Rd,1,5,0.0,2017-11-24
-7,11/18/17,Minnesota,Minneapolis,3600 block of Emerson Avenue North,0,4,0.0,2017-11-18
-8,11/17/17,Louisiana,New Iberia,900 Block of Mississippi St,0,4,0.0,2017-11-17
-9,11/16/17,Georgia,Columbus,1400 block of 15th Street,0,7,0.0,2017-11-16
-10,11/14/17,California,Corning,17357 Stagecoach Rd,6,12,0.0,2017-11-14
-11,11/14/17,California,Richmond,900 Block of View Dr,2,2,0.0,2017-11-14
-12,11/12/17,Indiana,Gary,4601 Melton Rd,0,7,0.0,2017-11-12
-13,11/12/17,California,Fresno,S Calvin Ave,0,5,0.0,2017-11-12
-14,11/12/17,Georgia,Atlanta,50 Lower Alabama St,2,2,0.0,2017-11-12
-15,11/11/17,Texas,Dallas,2532 Martin Luther King Jr Blvd,1,3,0.0,2017-11-11
-16,11/11/17,Louisiana,New Orleans,Forstall Street and Burgundy Street,1,5,0.0,2017-11-11
-17,11/11/17,North Carolina,Fayetteville,2835 Bragg Blvd,1,5,0.0,2017-11-11
-18,11/10/17,Ohio,Dayton (Trotwood),193 Olive Rd,0,4,0.0,2017-11-10
-19,11/9/17,Pennsylvania,Philadelphia,1800 block of Ringgold,0,4,0.0,2017-11-09
-20,11/5/17,Texas,Sutherland Springs,216 4th St,27,20,0.0,2017-11-05
-21,11/4/17,Texas,Austin,N Lamar Blvd and Masterson Pass,0,4,0.0,2017-11-04
-22,11/4/17,Ohio,Youngstown,2810 Market St,0,4,0.0,2017-11-04
-23,11/4/17,California,Santa Monica,1515 Ocean Avenue,1,3,0.0,2017-11-04
-24,11/3/17,Minnesota,Minneapolis,10th Ave S and E 24th St,0,4,0.0,2017-11-03
-25,11/3/17,California,Gardena,E 163rd St and S Main St,0,4,0.0,2017-11-03
-26,11/3/17,New York,Buffalo,147 Roosevelt Ave,0,4,0.0,2017-11-03
-27,11/3/17,Louisiana,Lacombe,27600 block of Mirmar Street,1,4,0.0,2017-11-03
-28,10/31/17,Indiana,Hammond,500 block of Pointe Dr,1,3,0.0,2017-10-31
-29,10/29/17,Texas,Austin,5500 block of Ave F,1,3,0.0,2017-10-29
-30,10/28/17,Ohio,Toledo,1327 N Huron St,0,4,0.0,2017-10-28
-31,10/28/17,Virginia,Petersburg,N Sycamore St and Franklin,1,3,0.0,2017-10-28
-32,10/27/17,Kentucky,Louisville,1716 Prentice St,0,6,0.0,2017-10-27
-33,10/27/17,California,San Francisco,1100 block of Fillmore,0,4,0.0,2017-10-27
-34,10/23/17,California,Clearlake Oaks,13000 block of Anchor Village,2,2,0.0,2017-10-23
-35,10/22/17,Connecticut,Hartford,Wethersfield Avenue and Elliott Street,0,4,0.0,2017-10-22
-36,10/22/17,Alabama,Lanett,1606 19th St Sw,2,7,0.0,2017-10-22
-37,10/21/17,Florida,Jacksonville,164 E Eubanks St,0,4,0.0,2017-10-21
-38,10/21/17,Tennessee,Nashville,1277 12th Ave S,0,4,0.0,2017-10-21
-39,10/21/17,Pennsylvania,Chester,1200 block of W Carlas Ln,0,4,0.0,2017-10-21
-40,10/21/17,Florida,Tampa,400 Block of E Nordica St,0,4,0.0,2017-10-21
-41,10/18/17,Maryland,Edgewood,2111 Emmorton Park Rd,3,3,0.0,2017-10-18
-42,10/17/17,New York,Brooklyn,181 Martense St,0,4,0.0,2017-10-17
-43,10/16/17,Mississippi,Meridian,5th Street,1,3,0.0,2017-10-16
-44,10/15/17,Texas,Houston,6233 Gulfton St,2,2,0.0,2017-10-15
-45,10/15/17,Arizona,Phoenix,107th Ave and Camelback Rd,1,3,0.0,2017-10-15
-46,10/12/17,California,Aliso Viejo,6 Asbury Ct,2,2,0.0,2017-10-12
-47,10/11/17,Ohio,Pedro,15497 SR 93,4,0,0.0,2017-10-11
-48,10/10/17,California,San Francisco,25th St and Treat Ave,0,4,0.0,2017-10-10
-49,10/9/17,Texas,Houston,3352 Old Spanish Trail,0,5,0.0,2017-10-09
-50,10/7/17,Arizona,Phoenix,87th Ave and Thomas Rd,0,4,0.0,2017-10-07
-51,10/6/17,Illinois,Chicago,8000 block of S Marshfield,0,5,0.0,2017-10-06
-52,10/5/17,Arizona,Casa Grande,400 block of W 13th Street,4,0,0.0,2017-10-05
-53,10/3/17,Florida,Miami,2051 NW 65th St,0,4,0.0,2017-10-03
-54,10/1/17,Kansas,Lawrence,1000 block of Massachusetts St,3,2,0.0,2017-10-01
-55,10/1/17,Nevada,Las Vegas,3950 Las Vegas Blvd S,59,441,0.0,2017-10-01
-56,9/30/17,Tennessee,Memphis,800 block of Kerr Avenue,1,3,0.0,2017-09-30
-57,9/28/17,Louisiana,New Orleans,2001 N Rocheblave St,1,3,0.0,2017-09-28
-58,9/26/17,Tennessee,Memphis,2531 Chelsea Ave,0,4,0.0,2017-09-26
-59,9/26/17,Maryland,Baltimore,3200 block of Lyndale Ave,2,2,0.0,2017-09-26
-60,9/26/17,Pennsylvania,Philadelphia,100 block of Pastorius St,1,3,0.0,2017-09-26
-61,9/24/17,Maryland,Baltimore,500 block of E. Patapsco Avenue,0,4,0.0,2017-09-24
-62,9/24/17,New Jersey,Mays Landing,6000 block of Hoover Dr,1,3,0.0,2017-09-24
-63,9/24/17,Tennessee,Antioch,3890 Pin Hook Rd,1,8,0.0,2017-09-24
-64,9/24/17,New York,Syracuse,1226 E Fayette St,0,4,0.0,2017-09-24
-65,9/23/17,Illinois,Danville,Seminary St and Jackson St,0,5,0.0,2017-09-23
-66,9/23/17,California,Bakersfield,818 Real Rd,1,4,0.0,2017-09-23
-67,9/23/17,Connecticut,Hartford,1164 Albany Ave,2,2,0.0,2017-09-23
-68,9/20/17,Indiana,Gary,4300 block of 23rd Ct,0,5,0.0,2017-09-20
-69,9/17/17,Michigan,Detroit,5000 block of Stanton Street,1,3,0.0,2017-09-17
-70,9/17/17,Virginia,Petersburg,300 Mistletoe St,1,4,0.0,2017-09-17
-71,9/16/17,South Carolina,Columbia,920 Lady Street,0,8,0.0,2017-09-16
-72,9/13/17,Washington,Rockford,14626 S Jackson Rd,1,3,0.0,2017-09-13
-73,9/13/17,Pennsylvania,York,400 block of S Duke St,0,4,0.0,2017-09-13
-74,9/13/17,Pennsylvania,Philadelphia,3100 block of N 2nd St,0,4,0.0,2017-09-13
-75,9/13/17,Tennessee,Memphis,1000 block of Morehead St,1,5,0.0,2017-09-13
-76,9/10/17,Louisiana,New Orleans,2101 N Claiborne Ave,1,3,0.0,2017-09-10
-77,9/10/17,Texas,Plano,1712 West Spring Creek Parkway,9,1,0.0,2017-09-10
-78,9/9/17,Alabama,Selma,Kings Bend Road,0,4,0.0,2017-09-09
-79,9/6/17,Illinois,Chicago,2700 block of Madison,0,4,0.0,2017-09-06
-80,9/4/17,Illinois,Bellwood,1000 block of Bellwood Ave,0,4,0.0,2017-09-04
-81,9/3/17,California,Inglewood,10100 block of S Firmona Ave,2,3,0.0,2017-09-03
-82,9/2/17,Kentucky,Louisville,8008 Watterson Trail,0,4,0.0,2017-09-02
-83,9/2/17,Illinois,Chicago,8300 block of S Hermitage,1,3,0.0,2017-09-02
-84,8/28/17,New Mexico,Clovis,701 N Main St,2,4,0.0,2017-08-28
-85,8/27/17,California,Sacramento,7760 24th St,1,4,0.0,2017-08-27
-86,8/27/17,Indiana,Evansville,1127 Chestnut St,1,3,0.0,2017-08-27
-87,8/25/17,Florida,Gainesville,1600 NE 8th Ave,0,4,0.0,2017-08-25
-88,8/24/17,Missouri,Saint Louis,10400 block of Balmoral Dr,4,0,0.0,2017-08-24
-89,8/22/17,Illinois,Chicago,300 block of N Central Ave,0,4,0.0,2017-08-22
-90,8/21/17,North Carolina,Whitakers,980 Fishing Creek Rd,4,0,0.0,2017-08-21
-91,8/21/17,New Jersey,Newark,Fabyan Place,0,4,0.0,2017-08-21
-92,8/21/17,New Jersey,Newark,700 block of S 19th St,1,3,0.0,2017-08-21
-93,8/21/17,Maryland,Baltimore,Cottage Avenue and Park Heights Avenue,1,3,0.0,2017-08-21
-94,8/21/17,Tennessee,Memphis,262 Decatur St,0,4,0.0,2017-08-21
-95,8/20/17,Illinois,Chicago,11901 S Loomis St,2,5,0.0,2017-08-20
-96,8/20/17,New York,Brooklyn,100th St and Ave M,0,4,0.0,2017-08-20
-97,8/19/17,Ohio,Cleveland,11143 Superior Ave,1,4,0.0,2017-08-19
-98,8/16/17,New York,Wyandanch,Merritt Ave and 15th St,0,4,0.0,2017-08-16
-99,8/14/17,California,North Hollywood,Morrison St and Klump Ave,2,2,0.0,2017-08-14
-100,8/13/17,California,Sacramento,4000 Block of Martin Luther King Jr Blvd,0,4,0.0,2017-08-13
-101,8/13/17,Virginia,Suffolk,8700 block of Quay Rd,0,4,0.0,2017-08-13
-102,8/13/17,Pennsylvania,Philadelphia,39th St and Melon St,0,5,0.0,2017-08-13
-103,8/12/17,Missouri,Saint Louis,12310 Bellefontaine Rd,1,3,0.0,2017-08-12
-104,8/8/17,Illinois,Chicago,1 block of East 37th Street,1,6,0.0,2017-08-08
-105,8/6/17,New York,Bronx,Wickham Ave,0,6,0.0,2017-08-06
-106,8/6/17,New York,Bronx,Unionport Rd,0,4,0.0,2017-08-06
-107,8/6/17,California,Oakland,1000 block of 106th Avenue,0,7,0.0,2017-08-06
-108,8/5/17,New Jersey,Lakewood,900 block of Brook Road,0,4,0.0,2017-08-05
-109,8/5/17,South Carolina,Allendale,300 block of Ellis St,1,3,0.0,2017-08-05
-110,8/5/17,Florida,Tallahassee,1939 W Tennessee St,1,3,0.0,2017-08-05
-111,8/4/17,Montana,Lodge Grass,200 block of North Helen Street,3,2,0.0,2017-08-04
-112,8/3/17,District of Columbia,Washington,3426 18th St NE,1,3,0.0,2017-08-03
-113,8/2/17,Maryland,Baltimore,900 block of N Broadway,0,4,0.0,2017-08-02
-114,8/1/17,Washington,Toppenish,8000 Block of Lateral C Rd,0,6,0.0,2017-08-01
-115,8/1/17,California,Fresno,Mariposa St and A St,0,7,0.0,2017-08-01
-116,8/1/17,Illinois,Chicago,800 block of N Monticello Ave,0,4,0.0,2017-08-01
-117,7/31/17,Illinois,Decatur,Jasper St and Main St,0,4,0.0,2017-07-31
-118,7/30/17,Virginia,Norfolk,1500 block of Azalea Garden Rd,1,5,0.0,2017-07-30
-119,7/30/17,Texas,El Paso,1810 George Dieter Dr,1,3,0.0,2017-07-30
-120,7/29/17,New York,Buffalo,200 block of Carl St,1,4,0.0,2017-07-29
-121,7/29/17,North Carolina,Salisbury,115 W Fisher St,2,3,0.0,2017-07-29
-122,7/28/17,Delaware,Wilmington,400 block of N Washington St,0,4,0.0,2017-07-28
-123,7/27/17,Illinois,Chicago,2000 block of E 71st St,1,4,0.0,2017-07-27
-124,7/26/17,North Carolina,High Point,2111 E. Green Drive,1,6,0.0,2017-07-26
-125,7/23/17,Illinois,Chicago,1500 block of East 82nd St,1,3,0.0,2017-07-23
-126,7/23/17,Louisiana,Baton Rouge,10360 Ave H,0,4,0.0,2017-07-23
-127,7/22/17,Ohio,Cincinnati,130 E Clifton Ave,0,5,0.0,2017-07-22
-128,7/19/17,Virginia,Richmond,2300 block of Bethel St,0,5,0.0,2017-07-19
-129,7/19/17,California,Los Angeles,Imperial Hwy and Broadway,1,3,0.0,2017-07-19
-130,7/18/17,New Jersey,Trenton,Hewitt St and Division St,1,3,0.0,2017-07-18
-131,7/18/17,Wisconsin,Milwaukee,3000 Block of N 39th St,0,4,0.0,2017-07-18
-132,7/18/17,Arizona,El Mirage,NW Grand Ave and W Thunderbird Rd,0,4,0.0,2017-07-18
-133,7/15/17,Pennsylvania,Philadelphia,21st and Fitzwater,1,3,0.0,2017-07-15
-134,7/15/17,Illinois,Chicago,12200 block of S Throop St,0,4,0.0,2017-07-15
-135,7/9/17,Virginia,Lawrenceville,500 block Sturgeon Rd,0,7,0.0,2017-07-09
-136,7/8/17,Illinois,Alton,700 block of Oakwood,0,4,0.0,2017-07-08
-137,7/8/17,Ohio,Cincinnati,9917 Capstan Dr,1,8,0.0,2017-07-08
-138,7/6/17,Mississippi,Meridian,Eighth Ave,0,4,0.0,2017-07-06
-139,7/5/17,Georgia,Savannah,Jefferson Street and West St. Julian Street,0,4,0.0,2017-07-05
-140,7/5/17,Illinois,Chicago (Roseland),11000 block of S Eberhart,2,2,0.0,2017-07-05
-141,7/5/17,Maine,Madison,300 block of Russell Rd,4,1,0.0,2017-07-05
-142,7/4/17,Florida,Orlando (Pine Castle),501 W Lancaster Rd,0,4,0.0,2017-07-04
-143,7/4/17,Virginia,Hampton,500 block of Patterson Ave,1,4,0.0,2017-07-04
-144,7/4/17,North Carolina,Raleigh,105 E South St,1,3,0.0,2017-07-04
-145,7/3/17,Alabama,Prattville,112 US 82,3,1,0.0,2017-07-03
-146,7/3/17,Michigan,Pontiac,50 block of Thorpe St,1,3,0.0,2017-07-03
-147,7/2/17,New Jersey,Jersey City,Wilkinson Avenue,0,4,0.0,2017-07-02
-148,7/2/17,South Carolina,Greenwood,SC 72 Bypass,0,4,0.0,2017-07-02
-149,7/1/17,Illinois,Momence,2727 S 13000 Rd E,0,4,0.0,2017-07-01
-150,7/1/17,New Jersey,Newark,Lincoln Park and Pennsylvania Avenue,2,2,0.0,2017-07-01
-151,7/1/17,California,Oakland,3200 Humboldt Ave,0,4,0.0,2017-07-01
-152,7/1/17,Arkansas,Little Rock,220 W 6th St,0,25,0.0,2017-07-01
-153,6/30/17,New York,Bronx,1650 Grand Concourse,2,6,0.0,2017-06-30
-154,6/27/17,Illinois,Chicago,200 block of S Lotus,0,5,0.0,2017-06-27
-155,6/25/17,District of Columbia,Washington,5900 block of Southern Ave SE,0,4,0.0,2017-06-25
-156,6/25/17,Missouri,Saint Louis,5000 block of Thekla Ave,1,3,0.0,2017-06-25
-157,6/24/17,Florida,Fort Lauderdale,2335 NW 16th Ct,1,4,0.0,2017-06-24
-158,6/24/17,New York,New York (Manhattan),114th St and Manhattan Ave,0,5,0.0,2017-06-24
-159,6/24/17,New Jersey,Willingboro,Pastoral Lane,0,4,0.0,2017-06-24
-160,6/22/17,Georgia,Atlanta,1100 block of Osborne Street,1,6,0.0,2017-06-22
-161,6/18/17,Missouri,Saint Louis,1900 block of N 14th St,3,2,0.0,2017-06-18
-162,6/18/17,District of Columbia,Washington,3100 block of Buena Vista Terrace SE,0,4,0.0,2017-06-18
-163,6/18/17,Illinois,Chicago,3300 block of W Crystal St,0,4,0.0,2017-06-18
-164,6/18/17,South Carolina,Myrtle Beach,311 N Ocean Blvd,0,7,0.0,2017-06-18
-165,6/17/17,Ohio,Columbus,6252 Busch Blvd,1,4,0.0,2017-06-17
-166,6/17/17,Illinois,Chicago,1 block of North Latrobe,0,4,0.0,2017-06-17
-167,6/15/17,Virginia,Richmond,4053 Old Brook Road,1,3,0.0,2017-06-15
-168,6/15/17,New Mexico,La Madera,491 NM 111,5,0,0.0,2017-06-15
-169,6/14/17,Ohio,Canton,14th St. NE and Gibbs Ave. NE,0,4,0.0,2017-06-14
-170,6/14/17,Virginia,Alexandria,420 E Monroe Ave,1,5,0.0,2017-06-14
-171,6/14/17,California,San Francisco,720 San Bruno,4,2,0.0,2017-06-14
-172,6/13/17,Maryland,Baltimore,3300 block of Ayrdale Avenue,0,4,0.0,2017-06-13
-173,6/13/17,Maryland,Baltimore,1200 block of Bonaparte Avenue,2,2,0.0,2017-06-13
-174,6/13/17,Missouri,Saint Louis (University City),Ferguson Ave and Plymouth Ave,0,4,0.0,2017-06-13
-175,6/11/17,Illinois,Chicago,3300 block of W Douglas Blvd,0,9,0.0,2017-06-11
-176,6/11/17,Tennessee,Chattanooga,4272 Bonny Oaks Drive,0,4,0.0,2017-06-11
-177,6/11/17,Texas,Houston,505 Cypress Station Dr,0,4,0.0,2017-06-11
-178,6/10/17,Tennessee,Memphis,571 East Street,0,4,0.0,2017-06-10
-179,6/9/17,Texas,Fort Worth,East Davis Avenue and New York Avenue,2,5,0.0,2017-06-09
-180,6/8/17,Louisiana,New Orleans,3650 Franklin Ave,0,6,0.0,2017-06-08
-181,6/6/17,Utah,Sandy,2232 Alta Canyon Drive,3,2,0.0,2017-06-06
-182,6/5/17,Florida,Orlando,2427 Forsyth Rd,6,0,0.0,2017-06-05
-183,6/3/17,Missouri,Saint Louis,1600 Block of Union Blvd,2,2,0.0,2017-06-03
-184,6/3/17,Louisiana,New Orleans,3717 Tulane Ave,3,2,0.0,2017-06-03
-185,6/2/17,Texas,Laredo,5301 McPherson Rd,2,3,0.0,2017-06-02
-186,6/2/17,California,Los Angeles,89th St and Broadway,1,3,0.0,2017-06-02
-187,6/1/17,Missouri,Saint Louis,Beacon Ave and Lillian Ave,3,1,0.0,2017-06-01
-188,5/30/17,Ohio,Middletown,1200 Elliott Dr,1,3,0.0,2017-05-30
-189,5/29/17,Kentucky,Louisville,231 Witherspoon St,1,3,0.0,2017-05-29
-190,5/28/17,Alabama,Phenix City,100 block of 6th Street South,0,12,0.0,2017-05-28
-191,5/28/17,New Jersey,Paterson,86 Main Street,1,5,0.0,2017-05-28
-192,5/28/17,Mississippi,Moss Point,6103 Hwy. 63,0,5,0.0,2017-05-28
-193,5/27/17,New York,New York (Manhattan),318 W 14th St,0,4,0.0,2017-05-27
-194,5/27/17,District of Columbia,Washington,100 block of Q Street Northwest,1,7,0.0,2017-05-27
-195,5/27/17,Mississippi,Bogue Chitto,2871 Lee Drive,8,1,0.0,2017-05-27
-196,5/26/17,Florida,Miami,2730 NW 167th St,0,4,0.0,2017-05-26
-197,5/21/17,Iowa,Des Moines,4300 Beaver Dr,1,3,0.0,2017-05-21
-198,5/21/17,Arizona,Mesa,441 N Val Vista Dr,0,4,0.0,2017-05-21
-199,5/20/17,Pennsylvania,Philadelphia,2100 block of W Huntingdon St,0,10,0.0,2017-05-20
-200,5/16/17,South Carolina,Ruffin,21785 Lowcountry Hwy,3,1,0.0,2017-05-16
-201,5/14/17,Arkansas,Jonesboro,311 S Main St,1,6,0.0,2017-05-14
-202,5/14/17,Illinois,Dolton,14112 Chicago Road,0,5,0.0,2017-05-14
-203,5/14/17,Florida,Avon Park,Hal McRae Blvd and Delaney Ave,0,5,0.0,2017-05-14
-204,5/14/17,Texas,Fort Worth,8600 block of Calmont Ave,0,4,0.0,2017-05-14
-205,5/10/17,New Jersey,Trenton,300 block of Centre St,1,3,0.0,2017-05-10
-206,5/9/17,Kansas,Kansas City,1900 block of S. Boeke,3,1,0.0,2017-05-09
-207,5/7/17,Illinois,Chicago,2600 block of 46th Pl,2,8,0.0,2017-05-07
-208,5/4/17,Michigan,Flint,600 block of Copeman Boulevard,1,3,0.0,2017-05-04
-209,5/2/17,Florida,Jacksonville,1566 West 24th Street,1,3,0.0,2017-05-02
-210,5/1/17,Texas,Dallas,3200 block of Reynolds Ave,2,3,0.0,2017-05-01
-211,4/30/17,California,San Diego,9080 Judicial Dr,2,6,0.0,2017-04-30
-212,4/30/17,Kansas,Topeka,4104 SW 28th,4,1,0.0,2017-04-30
-213,4/30/17,Florida,Jacksonville,1200 Ken Knight Dr N,0,5,0.0,2017-04-30
-214,4/30/17,South Carolina,Loris,268 N Sea Green Rd,1,5,0.0,2017-04-30
-215,4/29/17,Maryland,Germantown,12800 block of Kitchen House Way,1,3,0.0,2017-04-29
-216,4/29/17,California,Los Angeles (Boyle Heights),Murchison St and Lancaster Ave,1,3,0.0,2017-04-29
-217,4/29/17,California,Sacramento,3800 block of 26th Avenue,0,5,0.0,2017-04-29
-218,4/29/17,California,Whittier,10000 block of Carmentia Rd,1,5,0.0,2017-04-29
-219,4/29/17,California,Compton,2000 Block of N Nestor Ave,0,4,0.0,2017-04-29
-220,4/29/17,Virginia,Virginia Beach,200 block of 18th St,0,4,0.0,2017-04-29
-221,4/28/17,Pennsylvania,Chester,5 E 21st St,0,4,0.0,2017-04-28
-222,4/27/17,New Jersey,Newark,1100 block of S Orange Ave,1,3,0.0,2017-04-27
-223,4/26/17,Florida,Miami,SW 264th St and 139th Ave,0,4,0.0,2017-04-26
-224,4/21/17,Florida,Palm Bay,2500 block of Vernon Dr,2,2,0.0,2017-04-21
-225,4/20/17,Kentucky,Louisville,700 block of East Jacob Street,0,4,0.0,2017-04-20
-226,4/16/17,California,Vallejo,110 Calhoun Street,0,4,0.0,2017-04-16
-227,4/16/17,North Carolina,Elizabeth City,611 S Martin St,0,4,0.0,2017-04-16
-228,4/16/17,Ohio,Columbus,1710 Cleveland Av,0,9,0.0,2017-04-16
-229,4/15/17,Illinois,Rock Falls,311 W  2nd St,0,4,0.0,2017-04-15
-230,4/15/17,Indiana,Indianapolis,300 block of S Meridian St,0,4,0.0,2017-04-15
-231,4/15/17,Alabama,Birmingham,1480 Center Point Pkwy,0,6,0.0,2017-04-15
-232,4/15/17,Pennsylvania,Philadelphia,5900 block of Hammond Street,0,4,0.0,2017-04-15
-233,4/15/17,Illinois,Harvey,14600 block of Myrtle Avenue,0,4,0.0,2017-04-15
-234,4/15/17,California,Banning,900 block of N Allen St,0,4,0.0,2017-04-15
-235,4/13/17,Georgia,Atlanta,30 Anderson Ave SW,1,3,0.0,2017-04-13
-236,4/9/17,Texas,San Antonio,3100 block of Fidelia Drive,1,3,0.0,2017-04-09
-237,4/9/17,Indiana,Fort Wayne,9439 Lima Rd,1,3,0.0,2017-04-09
-238,4/7/17,North Carolina,Hickory,1423 29th Ave Dr NE,3,1,0.0,2017-04-07
-239,4/7/17,Texas,Houston,3829 Mount Pleasant St,5,0,0.0,2017-04-07
-240,4/7/17,Minnesota,Saint Paul,1600 block of English St,4,1,0.0,2017-04-07
-241,4/7/17,Illinois,Chicago,5600 block of W Lake St,1,5,0.0,2017-04-07
-242,4/6/17,Louisiana,Lake Charles,2000 block of Tulip St,1,3,0.0,2017-04-06
-243,4/3/17,Pennsylvania,Philadelphia,1100 block of W Stiles St,3,1,0.0,2017-04-03
-244,4/3/17,Texas,Lubbock,5401 Ave Q,0,7,0.0,2017-04-03
-245,4/2/17,Illinois,Chicago,3500 block of West Van Buren Street,2,4,0.0,2017-04-02
-246,4/2/17,Iowa,Des Moines,2500 Martin Luther King Jr. Parkway,0,5,0.0,2017-04-02
-247,4/1/17,California,Pittsburg,100 block of Madoline Street,0,5,0.0,2017-04-01
-248,4/1/17,Florida,Tampa,219 S Howard Ave,1,4,0.0,2017-04-01
-249,4/1/17,Oklahoma,Oklahoma City,1200 block of N Woodward Avenue,2,3,0.0,2017-04-01
-250,3/30/17,Illinois,Chicago,2704 E 75th St,4,0,0.0,2017-03-30
-251,3/27/17,Florida,Sanford,209 Hays Dr,2,4,0.0,2017-03-27
-252,3/26/17,Texas,Houston,5619 Aldine Bender Rd,2,4,0.0,2017-03-26
-253,3/26/17,Ohio,Cincinnati,4601 Kellogg Ave,2,15,0.0,2017-03-26
-254,3/26/17,Ohio,Cleveland,E 75th St,2,2,0.0,2017-03-26
-255,3/25/17,Michigan,Detroit,8443 Grand River Ave,1,3,0.0,2017-03-25
-256,3/25/17,Tennessee,Knoxville,Minnesota Avenue,1,4,0.0,2017-03-25
-257,3/25/17,Ohio,Cleveland,E 79th St and Woodland Ave,2,2,0.0,2017-03-25
-258,3/24/17,California,Fresno,300 block of South Villa Avenue,1,4,0.0,2017-03-24
-259,3/24/17,Missouri,Saint Louis,5100 block of Palm St,1,6,0.0,2017-03-24
-260,3/22/17,Wisconsin,Rothschild,1133 E Grand Ave,5,0,0.0,2017-03-22
-261,3/19/17,Kentucky,Louisville,1512 Portland Avenue,1,5,0.0,2017-03-19
-262,3/18/17,Michigan,Detroit,16000 block of Rutherford,3,2,0.0,2017-03-18
-263,3/15/17,Louisiana,Metairie,2508 Pasadena Ave,3,1,0.0,2017-03-15
-264,3/10/17,Illinois,Chicago,123 E 51st St,2,2,0.0,2017-03-10
-265,3/10/17,Louisiana,New Orleans (Gentilly),4200 block of Touro St,3,1,0.0,2017-03-10
-266,3/7/17,Illinois,Chicago,West 76th Street and South May streets,0,4,0.0,2017-03-07
-267,3/5/17,Georgia,Columbus,600 block of 32nd Street,0,4,0.0,2017-03-05
-268,3/4/17,Kansas,Topeka,23rd and Bellview,1,4,0.0,2017-03-04
-269,3/4/17,California,Sacramento,2500 block of 33rd St,0,4,0.0,2017-03-04
-270,3/3/17,Pennsylvania,Philadelphia,7165 Germantown Ave,0,4,0.0,2017-03-03
-271,3/3/17,California,Riverside,8300 block of Trey Ave,0,5,0.0,2017-03-03
-272,2/28/17,Ohio,Cincinnati,1700 of Casey Drive,0,6,0.0,2017-02-28
-273,2/27/17,Virginia,Newport News,11810 Fountain Way,0,4,0.0,2017-02-27
-274,2/26/17,Indiana,Gary,1700 block of Grant St,1,4,0.0,2017-02-26
-275,2/25/17,Ohio,Warren,1564 Niles Cortland Rd SE,2,3,0.0,2017-02-25
-276,2/25/17,Florida,Jacksonville,3604 Moncrief Rd,1,4,0.0,2017-02-25
-277,2/22/17,New York,Rochester,191 Genesee St,0,4,0.0,2017-02-22
-278,2/21/17,Ohio,Cleveland,16700 Lorain Ave,0,4,0.0,2017-02-21
-279,2/21/17,Mississippi,Toomsuba,Butts Road,4,0,0.0,2017-02-21
-280,2/20/17,Ohio,Cleveland,1082 East 105th Street,0,5,0.0,2017-02-20
-281,2/19/17,Virginia,Norfolk,Church Street and East Virginia Beach Blvd,1,3,0.0,2017-02-19
-282,2/18/17,Pennsylvania,Philadelphia,1 block of N Conestoga,0,4,0.0,2017-02-18
-283,2/18/17,Indiana,South Bend,1000 block of Yukon St,1,3,0.0,2017-02-18
-284,2/15/17,California,Salinas,30 Soledad Street,0,4,0.0,2017-02-15
-285,2/15/17,Illinois,Chicago,3949 South Albany Avenue,3,2,0.0,2017-02-15
-286,2/12/17,Missouri,Caruthersville,908 Truman Blvd,1,6,0.0,2017-02-12
-287,2/12/17,New York,Newburgh,253 South William Street,1,3,0.0,2017-02-12
-288,2/12/17,Florida,Greenville,Church Ave and Obadiah St,0,5,0.0,2017-02-12
-289,2/11/17,Tennessee,Savannah,Clifton Road and Midway Drive,0,4,0.0,2017-02-11
-290,2/11/17,Illinois,Chicago,100 block of North Mayfield,1,3,0.0,2017-02-11
-291,2/10/17,Louisiana,New Orleans,2nd St and Dryades St,1,5,0.0,2017-02-10
-292,2/9/17,Mississippi,Jackson,3150 Robinson Road,4,0,0.0,2017-02-09
-293,2/8/17,Ohio,Cleveland,16379 Euclid Ave,1,4,0.0,2017-02-08
-294,2/7/17,South Carolina,Columbia,5500 block of Fairfield Road,0,4,0.0,2017-02-07
-295,2/7/17,Arkansas,Little Rock,25 Par Drive,1,4,0.0,2017-02-07
-296,2/6/17,Mississippi,Yazoo City,11th Street,4,0,0.0,2017-02-06
-297,1/31/17,Tennessee,Memphis,1576 S White Station Rd,0,4,0.0,2017-01-31
-298,1/31/17,District of Columbia,Washington,2900 block of Martin Luther King Jr Ave,0,4,0.0,2017-01-31
-299,1/30/17,Minnesota,Minneapolis (Crystal),5410 Lakeland Ave N,0,4,0.0,2017-01-30
-300,1/29/17,Louisiana,Shreveport,6363 Hearne Ave,1,4,0.0,2017-01-29
-301,1/27/17,Tennessee,Brownsville,221 Morgan St,0,10,0.0,2017-01-27
-302,1/26/17,Georgia,Albany,1510 Maryland Drive,2,3,0.0,2017-01-26
-303,1/25/17,Illinois,Chicago,500 block of E 75th St,0,6,0.0,2017-01-25
-304,1/22/17,Texas,Manvel,200 block of Oak Shore Dr,3,2,0.0,2017-01-22
-305,1/22/17,Illinois,Chicago (Englewood),1800 block of W 63rd,0,4,0.0,2017-01-22
-306,1/22/17,Georgia,Atlanta,2841 Greenbriar Pkwy SW,3,1,0.0,2017-01-22
-307,1/21/17,Georgia,Jonesboro,6510 Tara Blvd,0,6,0.0,2017-01-21
-308,1/21/17,Florida,Boynton Beach,500 NE 2nd St,0,5,0.0,2017-01-21
-309,1/21/17,Tennessee,Memphis,500 block of Delta Road,2,2,0.0,2017-01-21
-310,1/20/17,Mississippi,Como,Smart Road,1,4,0.0,2017-01-20
-311,1/20/17,California,Fresno,4700 block of E Montecito Ave,0,4,0.0,2017-01-20
-312,1/16/17,Texas,Houston,8535 Martin Luther King Boulevard,0,4,0.0,2017-01-16
-313,1/16/17,Florida,Miami,6011 NW 32nd Ave,0,8,0.0,2017-01-16
-314,1/15/17,Colorado,Capulin,County Road Y,3,1,0.0,2017-01-15
-315,1/15/17,Mississippi,Magnolia,6000 block of Church Road,1,4,0.0,2017-01-15
-316,1/12/17,Missouri,Kansas City,8607 E 61st Terrace,3,2,0.0,2017-01-12
-317,1/12/17,California,Salinas,500 block of Sunrise St,2,2,0.0,2017-01-12
-318,1/11/17,New Jersey,Newark,Hawkins Street and Christie Street,1,3,0.0,2017-01-11
-319,1/11/17,Illinois,Chicago,4200 block of S Talman,1,3,0.0,2017-01-11
-320,1/7/17,Michigan,Flint,2500 block of Churchill Ave,1,3,0.0,2017-01-07
-321,1/6/17,California,Pasadena,100 block of W Claremont St,2,2,0.0,2017-01-06
-322,1/6/17,Florida,Fort Lauderdale,100 Terminal Dr,5,6,0.0,2017-01-06
-323,1/4/17,California,Fontana,14520 Village Drive,3,1,0.0,2017-01-04
-324,1/3/17,Texas,Allen,500 block of Hawthorne Drive,0,4,0.0,2017-01-03
-325,1/1/17,Mississippi,Winstonville,114 North Greyer Street,0,5,0.0,2017-01-01
-326,1/1/17,Texas,Dallas,9220 Skillman Street,1,3,0.0,2017-01-01
-327,1/1/17,Florida,Miami,8000 block of NW 14th Ave,0,7,0.0,2017-01-01
+0,12/31/17,Colorado,Littleton (Highlands Ranch),3404 E County Line Rd,2,6,0.0,2017-12-31
+1,12/31/17,New Jersey,Long Branch,635 Wall St,4,0,0.0,2017-12-31
+2,12/31/17,Illinois,Chicago,2335 Howard St,0,4,0.0,2017-12-31
+3,12/27/17,Nevada,Las Vegas,3750 E Bonanza Rd,2,2,0.0,2017-12-27
+4,12/26/17,Florida,Miami,NW 18th Ave and 86th Ter,0,5,0.0,2017-12-26
+5,12/24/17,Mississippi,Vicksburg,1111 Mulberry Street,0,5,0.0,2017-12-24
+6,12/24/17,Alabama,Troy,100 block of Chapman St,1,4,0.0,2017-12-24
+7,12/23/17,Louisiana,Eunice,100 block of City Avenue,1,3,0.0,2017-12-23
+8,12/23/17,Alabama,Birmingham,3rd Ave N and 9th St N,0,4,0.0,2017-12-23
+9,12/21/17,Louisiana,Lafayette,1500 block of N University Avenue,0,4,0.0,2017-12-21
+10,12/21/17,Pennsylvania,Philadelphia,6600 block of Dorel St,1,3,0.0,2017-12-21
+11,12/16/17,Mississippi,Mc Cool (Mccool),Ferguson Rd,0,4,0.0,2017-12-16
+12,12/15/17,California,Pacoima,13041 Jouett Street,0,5,0.0,2017-12-15
+13,12/13/17,Ohio,Columbus,200 block of E Barthman Ave,1,3,0.0,2017-12-13
+14,12/12/17,Kentucky,Louisville,17th and Gallagher Streets,0,4,0.0,2017-12-12
+15,12/12/17,Texas,Garland,1301 Rivercrest Ln,0,4,0.0,2017-12-12
+16,12/6/17,Illinois,Chicago,4620 N Broadway,0,4,0.0,2017-12-06
+17,12/4/17,Pennsylvania,Pittsburgh,7200 block of Everton St,2,2,0.0,2017-12-04
+18,12/3/17,Tennessee,Memphis,656 Marshall Ave,1,3,0.0,2017-12-03
+19,12/2/17,Michigan,Detroit,5200 Woodward Avenue,0,4,0.0,2017-12-02
+20,11/30/17,Michigan,Detroit,11000 block of Gunston,1,4,0.0,2017-11-30
+21,11/24/17,Ohio,Cleveland,11618 Buckeye Rd,1,5,0.0,2017-11-24
+22,11/24/17,Mississippi,Brookhaven,119 Martin Street,1,6,0.0,2017-11-24
+23,11/18/17,Minnesota,Minneapolis,3600 block of Emerson Avenue North,0,4,0.0,2017-11-18
+24,11/17/17,Louisiana,New Iberia,900 Block of Mississippi St,0,4,0.0,2017-11-17
+25,11/16/17,Georgia,Columbus,1400 block of 15th Street,0,7,0.0,2017-11-16
+26,11/14/17,California,Corning,17357 Stagecoach Rd,6,12,0.0,2017-11-14
+27,11/14/17,California,Richmond,900 Block of View Dr,2,2,0.0,2017-11-14
+28,11/12/17,Indiana,Gary,4601 Melton Rd,0,7,0.0,2017-11-12
+29,11/12/17,California,Fresno,S Calvin Ave,0,5,0.0,2017-11-12
+30,11/12/17,Georgia,Atlanta,50 Lower Alabama St,2,2,0.0,2017-11-12
+31,11/11/17,Texas,Dallas,2532 Martin Luther King Jr Blvd,1,3,0.0,2017-11-11
+32,11/11/17,Louisiana,New Orleans,Forstall Street and Burgundy Street,1,5,0.0,2017-11-11
+33,11/11/17,North Carolina,Fayetteville,2835 Bragg Blvd,1,5,0.0,2017-11-11
+34,11/10/17,Ohio,Dayton (Trotwood),193 Olive Rd,0,4,0.0,2017-11-10
+35,11/9/17,Pennsylvania,Philadelphia,1800 block of Ringgold,0,4,0.0,2017-11-09
+36,11/5/17,Texas,Sutherland Springs,216 4th St,27,20,0.0,2017-11-05
+37,11/4/17,Texas,Austin,N Lamar Blvd and Masterson Pass,0,4,0.0,2017-11-04
+38,11/4/17,Ohio,Youngstown,2810 Market St,0,4,0.0,2017-11-04
+39,11/4/17,California,Santa Monica,1515 Ocean Avenue,1,3,0.0,2017-11-04
+40,11/3/17,Minnesota,Minneapolis,10th Ave S and E 24th St,0,4,0.0,2017-11-03
+41,11/3/17,California,Gardena,E 163rd St and S Main St,0,4,0.0,2017-11-03
+42,11/3/17,New York,Buffalo,147 Roosevelt Ave,0,4,0.0,2017-11-03
+43,11/3/17,Louisiana,Lacombe,27600 block of Mirmar Street,1,4,0.0,2017-11-03
+44,10/31/17,Indiana,Hammond,500 block of Pointe Dr,1,3,0.0,2017-10-31
+45,10/29/17,Texas,Austin,5500 block of Ave F,1,3,0.0,2017-10-29
+46,10/28/17,Ohio,Toledo,1327 N Huron St,0,4,0.0,2017-10-28
+47,10/28/17,Virginia,Petersburg,N Sycamore St and Franklin,1,3,0.0,2017-10-28
+48,10/27/17,Kentucky,Louisville,1716 Prentice St,0,6,0.0,2017-10-27
+49,10/27/17,California,San Francisco,1100 block of Fillmore,0,4,0.0,2017-10-27
+50,10/23/17,California,Clearlake Oaks,13000 block of Anchor Village,2,2,0.0,2017-10-23
+51,10/22/17,Connecticut,Hartford,Wethersfield Avenue and Elliott Street,0,4,0.0,2017-10-22
+52,10/22/17,Alabama,Lanett,1606 19th St Sw,2,7,0.0,2017-10-22
+53,10/21/17,Florida,Jacksonville,164 E Eubanks St,0,4,0.0,2017-10-21
+54,10/21/17,Tennessee,Nashville,1277 12th Ave S,0,4,0.0,2017-10-21
+55,10/21/17,Pennsylvania,Chester,1200 block of W Carlas Ln,0,4,0.0,2017-10-21
+56,10/21/17,Florida,Tampa,400 Block of E Nordica St,0,4,0.0,2017-10-21
+57,10/18/17,Maryland,Edgewood,2111 Emmorton Park Rd,3,3,0.0,2017-10-18
+58,10/17/17,New York,Brooklyn,181 Martense St,0,4,0.0,2017-10-17
+59,10/16/17,Mississippi,Meridian,5th Street,1,3,0.0,2017-10-16
+60,10/15/17,Texas,Houston,6233 Gulfton St,2,2,0.0,2017-10-15
+61,10/15/17,Arizona,Phoenix,107th Ave and Camelback Rd,1,3,0.0,2017-10-15
+62,10/12/17,California,Aliso Viejo,6 Asbury Ct,2,2,0.0,2017-10-12
+63,10/11/17,Ohio,Pedro,15497 SR 93,4,0,0.0,2017-10-11
+64,10/10/17,California,San Francisco,25th St and Treat Ave,0,4,0.0,2017-10-10
+65,10/9/17,Texas,Houston,3352 Old Spanish Trail,0,5,0.0,2017-10-09
+66,10/7/17,Arizona,Phoenix,87th Ave and Thomas Rd,0,4,0.0,2017-10-07
+67,10/6/17,Illinois,Chicago,8000 block of S Marshfield,0,5,0.0,2017-10-06
+68,10/5/17,Arizona,Casa Grande,400 block of W 13th Street,4,0,0.0,2017-10-05
+69,10/3/17,Florida,Miami,2051 NW 65th St,0,4,0.0,2017-10-03
+70,10/1/17,Kansas,Lawrence,1000 block of Massachusetts St,3,2,0.0,2017-10-01
+71,10/1/17,Nevada,Las Vegas,3950 Las Vegas Blvd S,59,441,0.0,2017-10-01
+72,9/30/17,Tennessee,Memphis,800 block of Kerr Avenue,1,3,0.0,2017-09-30
+73,9/28/17,Louisiana,New Orleans,2001 N Rocheblave St,1,3,0.0,2017-09-28
+74,9/26/17,Tennessee,Memphis,2531 Chelsea Ave,0,4,0.0,2017-09-26
+75,9/26/17,Maryland,Baltimore,3200 block of Lyndale Ave,2,2,0.0,2017-09-26
+76,9/26/17,Pennsylvania,Philadelphia,100 block of Pastorius St,1,3,0.0,2017-09-26
+77,9/24/17,Maryland,Baltimore,500 block of E. Patapsco Avenue,0,4,0.0,2017-09-24
+78,9/24/17,New Jersey,Mays Landing,6000 block of Hoover Dr,1,3,0.0,2017-09-24
+79,9/24/17,Tennessee,Antioch,3890 Pin Hook Rd,1,8,0.0,2017-09-24
+80,9/24/17,New York,Syracuse,1226 E Fayette St,0,4,0.0,2017-09-24
+81,9/23/17,California,Bakersfield,818 Real Rd,1,4,0.0,2017-09-23
+82,9/23/17,Illinois,Danville,Seminary St and Jackson St,0,5,0.0,2017-09-23
+83,9/23/17,Connecticut,Hartford,1164 Albany Ave,2,2,0.0,2017-09-23
+84,9/20/17,Indiana,Gary,4300 block of 23rd Ct,0,5,0.0,2017-09-20
+85,9/17/17,Michigan,Detroit,5000 block of Stanton Street,1,3,0.0,2017-09-17
+86,9/17/17,Virginia,Petersburg,300 Mistletoe St,1,4,0.0,2017-09-17
+87,9/16/17,South Carolina,Columbia,920 Lady Street,0,8,0.0,2017-09-16
+88,9/13/17,Washington,Rockford,14626 S Jackson Rd,1,3,0.0,2017-09-13
+89,9/13/17,Pennsylvania,York,400 block of S Duke St,0,4,0.0,2017-09-13
+90,9/13/17,Pennsylvania,Philadelphia,3100 block of N 2nd St,0,4,0.0,2017-09-13
+91,9/13/17,Tennessee,Memphis,1000 block of Morehead St,1,5,0.0,2017-09-13
+92,9/10/17,Louisiana,New Orleans,2101 N Claiborne Ave,1,3,0.0,2017-09-10
+93,9/10/17,Texas,Plano,1712 West Spring Creek Parkway,9,1,0.0,2017-09-10
+94,9/9/17,Alabama,Selma,Kings Bend Road,0,4,0.0,2017-09-09
+95,9/6/17,Illinois,Chicago,2700 block of Madison,0,4,0.0,2017-09-06
+96,9/4/17,Illinois,Bellwood,1000 block of Bellwood Ave,0,4,0.0,2017-09-04
+97,9/3/17,California,Inglewood,10100 block of S Firmona Ave,2,3,0.0,2017-09-03
+98,9/2/17,Kentucky,Louisville,8008 Watterson Trail,0,4,0.0,2017-09-02
+99,9/2/17,Illinois,Chicago,8300 block of S Hermitage,1,3,0.0,2017-09-02
+100,8/28/17,New Mexico,Clovis,701 N Main St,2,4,0.0,2017-08-28
+101,8/27/17,California,Sacramento,7760 24th St,1,4,0.0,2017-08-27
+102,8/27/17,Indiana,Evansville,1127 Chestnut St,1,3,0.0,2017-08-27
+103,8/25/17,Florida,Gainesville,1600 NE 8th Ave,0,4,0.0,2017-08-25
+104,8/24/17,Missouri,Saint Louis,10400 block of Balmoral Dr,4,0,0.0,2017-08-24
+105,8/22/17,Illinois,Chicago,300 block of N Central Ave,0,4,0.0,2017-08-22
+106,8/21/17,North Carolina,Whitakers,980 Fishing Creek Rd,4,0,0.0,2017-08-21
+107,8/21/17,New Jersey,Newark,Fabyan Place,0,4,0.0,2017-08-21
+108,8/21/17,New Jersey,Newark,700 block of S 19th St,1,3,0.0,2017-08-21
+109,8/21/17,Maryland,Baltimore,Cottage Avenue and Park Heights Avenue,1,3,0.0,2017-08-21
+110,8/21/17,Tennessee,Memphis,262 Decatur St,0,4,0.0,2017-08-21
+111,8/20/17,Illinois,Chicago,11901 S Loomis St,2,5,0.0,2017-08-20
+112,8/20/17,New York,Brooklyn,100th St and Ave M,0,4,0.0,2017-08-20
+113,8/19/17,Ohio,Cleveland,11143 Superior Ave,1,4,0.0,2017-08-19
+114,8/16/17,New York,Wyandanch,Merritt Ave and 15th St,0,4,0.0,2017-08-16
+115,8/14/17,California,North Hollywood,Morrison St and Klump Ave,2,2,0.0,2017-08-14
+116,8/13/17,California,Sacramento,4000 Block of Martin Luther King Jr Blvd,0,4,0.0,2017-08-13
+117,8/13/17,Virginia,Suffolk,8700 block of Quay Rd,0,4,0.0,2017-08-13
+118,8/13/17,Pennsylvania,Philadelphia,39th St and Melon St,0,5,0.0,2017-08-13
+119,8/12/17,Missouri,Saint Louis,12310 Bellefontaine Rd,1,3,0.0,2017-08-12
+120,8/8/17,Illinois,Chicago,1 block of East 37th Street,1,6,0.0,2017-08-08
+121,8/6/17,New York,Bronx,Wickham Ave,0,6,0.0,2017-08-06
+122,8/6/17,New York,Bronx,Unionport Rd,0,4,0.0,2017-08-06
+123,8/6/17,California,Oakland,1000 block of 106th Avenue,0,7,0.0,2017-08-06
+124,8/5/17,New Jersey,Lakewood,900 block of Brook Road,0,4,0.0,2017-08-05
+125,8/5/17,South Carolina,Allendale,300 block of Ellis St,1,3,0.0,2017-08-05
+126,8/5/17,Florida,Tallahassee,1939 W Tennessee St,1,3,0.0,2017-08-05
+127,8/4/17,Montana,Lodge Grass,200 block of North Helen Street,3,2,0.0,2017-08-04
+128,8/3/17,District of Columbia,Washington,3426 18th St NE,1,3,0.0,2017-08-03
+129,8/2/17,Maryland,Baltimore,900 block of N Broadway,0,4,0.0,2017-08-02
+130,8/1/17,Washington,Toppenish,8000 Block of Lateral C Rd,0,6,0.0,2017-08-01
+131,8/1/17,California,Fresno,Mariposa St and A St,0,7,0.0,2017-08-01
+132,8/1/17,Illinois,Chicago,800 block of N Monticello Ave,0,4,0.0,2017-08-01
+133,7/31/17,Illinois,Decatur,Jasper St and Main St,0,4,0.0,2017-07-31
+134,7/30/17,Virginia,Norfolk,1500 block of Azalea Garden Rd,1,5,0.0,2017-07-30
+135,7/30/17,Texas,El Paso,1810 George Dieter Dr,1,3,0.0,2017-07-30
+136,7/29/17,New York,Buffalo,200 block of Carl St,1,4,0.0,2017-07-29
+137,7/29/17,North Carolina,Salisbury,115 W Fisher St,2,3,0.0,2017-07-29
+138,7/28/17,Delaware,Wilmington,400 block of N Washington St,0,4,0.0,2017-07-28
+139,7/27/17,Illinois,Chicago,2000 block of E 71st St,1,4,0.0,2017-07-27
+140,7/26/17,North Carolina,High Point,2111 E. Green Drive,1,6,0.0,2017-07-26
+141,7/25/17,Florida,Jacksonville,1040 Golfair Boulevard,1,3,0.0,2017-07-25
+142,7/23/17,Illinois,Chicago,1500 block of East 82nd St,1,3,0.0,2017-07-23
+143,7/23/17,Louisiana,Baton Rouge,10360 Ave H,0,4,0.0,2017-07-23
+144,7/22/17,Ohio,Cincinnati,130 E Clifton Ave,0,5,0.0,2017-07-22
+145,7/19/17,Virginia,Richmond,2300 block of Bethel St,0,5,0.0,2017-07-19
+146,7/19/17,California,Los Angeles,Imperial Hwy and Broadway,1,3,0.0,2017-07-19
+147,7/18/17,New Jersey,Trenton,Hewitt St and Division St,1,3,0.0,2017-07-18
+148,7/18/17,Wisconsin,Milwaukee,3000 Block of N 39th St,0,4,0.0,2017-07-18
+149,7/18/17,Arizona,El Mirage,NW Grand Ave and W Thunderbird Rd,0,4,0.0,2017-07-18
+150,7/15/17,Pennsylvania,Philadelphia,21st and Fitzwater,1,3,0.0,2017-07-15
+151,7/15/17,Illinois,Chicago,12200 block of S Throop St,0,4,0.0,2017-07-15
+152,7/9/17,Virginia,Lawrenceville,500 block Sturgeon Rd,0,7,0.0,2017-07-09
+153,7/8/17,Illinois,Alton,700 block of Oakwood,0,4,0.0,2017-07-08
+154,7/8/17,Ohio,Cincinnati,9917 Capstan Dr,1,8,0.0,2017-07-08
+155,7/6/17,Mississippi,Meridian,Eighth Ave,0,4,0.0,2017-07-06
+156,7/5/17,Georgia,Savannah,Jefferson Street and West St. Julian Street,0,4,0.0,2017-07-05
+157,7/5/17,Illinois,Chicago (Roseland),11000 block of S Eberhart,2,2,0.0,2017-07-05
+158,7/5/17,Maine,Madison,300 block of Russell Rd,4,1,0.0,2017-07-05
+159,7/4/17,Florida,Orlando (Pine Castle),501 W Lancaster Rd,0,4,0.0,2017-07-04
+160,7/4/17,Virginia,Hampton,500 block of Patterson Ave,1,4,0.0,2017-07-04
+161,7/4/17,North Carolina,Raleigh,105 E South St,1,3,0.0,2017-07-04
+162,7/3/17,Alabama,Prattville,112 US 82,3,1,0.0,2017-07-03
+163,7/3/17,Michigan,Pontiac,50 block of Thorpe St,1,3,0.0,2017-07-03
+164,7/2/17,New Jersey,Jersey City,Wilkinson Avenue,0,4,0.0,2017-07-02
+165,7/2/17,South Carolina,Greenwood,SC 72 Bypass,0,4,0.0,2017-07-02
+166,7/1/17,Illinois,Momence,2727 S 13000 Rd E,0,4,0.0,2017-07-01
+167,7/1/17,New Jersey,Newark,Lincoln Park and Pennsylvania Avenue,2,2,0.0,2017-07-01
+168,7/1/17,California,Oakland,3200 Humboldt Ave,0,4,0.0,2017-07-01
+169,7/1/17,Arkansas,Little Rock,220 W 6th St,0,25,0.0,2017-07-01
+170,6/30/17,New York,Bronx,1650 Grand Concourse,2,6,0.0,2017-06-30
+171,6/27/17,Illinois,Chicago,200 block of S Lotus,0,5,0.0,2017-06-27
+172,6/25/17,District of Columbia,Washington,5900 block of Southern Ave SE,0,4,0.0,2017-06-25
+173,6/25/17,Missouri,Saint Louis,5000 block of Thekla Ave,1,3,0.0,2017-06-25
+174,6/24/17,Florida,Fort Lauderdale,2335 NW 16th Ct,1,4,0.0,2017-06-24
+175,6/24/17,New York,New York (Manhattan),114th St and Manhattan Ave,0,5,0.0,2017-06-24
+176,6/24/17,New Jersey,Willingboro,Pastoral Lane,0,4,0.0,2017-06-24
+177,6/22/17,Georgia,Atlanta,1100 block of Osborne Street,1,6,0.0,2017-06-22
+178,6/18/17,Missouri,Saint Louis,1900 block of N 14th St,3,2,0.0,2017-06-18
+179,6/18/17,District of Columbia,Washington,3100 block of Buena Vista Terrace SE,0,4,0.0,2017-06-18
+180,6/18/17,Illinois,Chicago,3300 block of W Crystal St,0,4,0.0,2017-06-18
+181,6/18/17,South Carolina,Myrtle Beach,311 N Ocean Blvd,0,7,0.0,2017-06-18
+182,6/17/17,Ohio,Columbus,6252 Busch Blvd,1,4,0.0,2017-06-17
+183,6/17/17,Illinois,Chicago,1 block of North Latrobe,0,4,0.0,2017-06-17
+184,6/15/17,Virginia,Richmond,4053 Old Brook Road,1,3,0.0,2017-06-15
+185,6/15/17,New Mexico,La Madera,491 NM 111,5,0,0.0,2017-06-15
+186,6/14/17,Ohio,Canton,14th St. NE and Gibbs Ave. NE,0,4,0.0,2017-06-14
+187,6/14/17,Virginia,Alexandria,420 E Monroe Ave,1,5,0.0,2017-06-14
+188,6/14/17,California,San Francisco,720 San Bruno,4,2,0.0,2017-06-14
+189,6/13/17,Maryland,Baltimore,3300 block of Ayrdale Avenue,0,4,0.0,2017-06-13
+190,6/13/17,Maryland,Baltimore,1200 block of Bonaparte Avenue,2,2,0.0,2017-06-13
+191,6/13/17,Missouri,Saint Louis (University City),Ferguson Ave and Plymouth Ave,0,4,0.0,2017-06-13
+192,6/11/17,Illinois,Chicago,3300 block of W Douglas Blvd,0,9,0.0,2017-06-11
+193,6/11/17,Tennessee,Chattanooga,4272 Bonny Oaks Drive,0,4,0.0,2017-06-11
+194,6/11/17,Texas,Houston,505 Cypress Station Dr,0,4,0.0,2017-06-11
+195,6/10/17,Tennessee,Memphis,571 East Street,0,4,0.0,2017-06-10
+196,6/9/17,Texas,Fort Worth,East Davis Avenue and New York Avenue,2,5,0.0,2017-06-09
+197,6/8/17,Louisiana,New Orleans,3650 Franklin Ave,0,6,0.0,2017-06-08
+198,6/6/17,Utah,Sandy,2232 Alta Canyon Drive,3,2,0.0,2017-06-06
+199,6/5/17,Florida,Orlando,2427 Forsyth Rd,6,0,0.0,2017-06-05
+200,6/3/17,Missouri,Saint Louis,1600 Block of Union Blvd,2,2,0.0,2017-06-03
+201,6/3/17,Louisiana,New Orleans,3717 Tulane Ave,3,2,0.0,2017-06-03
+202,6/2/17,Texas,Laredo,5301 McPherson Rd,2,3,0.0,2017-06-02
+203,6/2/17,California,Los Angeles,89th St and Broadway,1,3,0.0,2017-06-02
+204,6/1/17,Missouri,Saint Louis,Beacon Ave and Lillian Ave,3,1,0.0,2017-06-01
+205,5/30/17,Ohio,Middletown,1200 Elliott Dr,1,3,0.0,2017-05-30
+206,5/29/17,Kentucky,Louisville,231 Witherspoon St,1,3,0.0,2017-05-29
+207,5/28/17,Alabama,Phenix City,100 block of 6th Street South,0,12,0.0,2017-05-28
+208,5/28/17,New Jersey,Paterson,86 Main Street,1,5,0.0,2017-05-28
+209,5/28/17,Mississippi,Moss Point,6103 Hwy. 63,0,5,0.0,2017-05-28
+210,5/27/17,New York,New York (Manhattan),318 W 14th St,0,4,0.0,2017-05-27
+211,5/27/17,District of Columbia,Washington,100 block of Q Street Northwest,1,7,0.0,2017-05-27
+212,5/27/17,Mississippi,Bogue Chitto,2871 Lee Drive,8,1,0.0,2017-05-27
+213,5/26/17,Florida,Miami,2730 NW 167th St,0,4,0.0,2017-05-26
+214,5/21/17,Iowa,Des Moines,4300 Beaver Dr,1,3,0.0,2017-05-21
+215,5/21/17,Arizona,Mesa,441 N Val Vista Dr,0,4,0.0,2017-05-21
+216,5/20/17,Pennsylvania,Philadelphia,2100 block of W Huntingdon St,0,10,0.0,2017-05-20
+217,5/16/17,South Carolina,Ruffin,21785 Lowcountry Hwy,3,1,0.0,2017-05-16
+218,5/14/17,Arkansas,Jonesboro,311 S Main St,1,6,0.0,2017-05-14
+219,5/14/17,Illinois,Dolton,14112 Chicago Road,0,5,0.0,2017-05-14
+220,5/14/17,Florida,Avon Park,Hal McRae Blvd and Delaney Ave,0,5,0.0,2017-05-14
+221,5/14/17,Texas,Fort Worth,8600 block of Calmont Ave,0,4,0.0,2017-05-14
+222,5/10/17,New Jersey,Trenton,300 block of Centre St,1,3,0.0,2017-05-10
+223,5/9/17,Kansas,Kansas City,1900 block of S. Boeke,3,1,0.0,2017-05-09
+224,5/7/17,Illinois,Chicago,2600 block of 46th Pl,2,8,0.0,2017-05-07
+225,5/4/17,Michigan,Flint,600 block of Copeman Boulevard,1,3,0.0,2017-05-04
+226,5/2/17,Florida,Jacksonville,1566 West 24th Street,1,3,0.0,2017-05-02
+227,5/1/17,Texas,Dallas,3200 block of Reynolds Ave,2,3,0.0,2017-05-01
+228,4/30/17,California,San Diego,9080 Judicial Dr,2,6,0.0,2017-04-30
+229,4/30/17,Kansas,Topeka,4104 SW 28th,4,1,0.0,2017-04-30
+230,4/30/17,Florida,Jacksonville,1200 Ken Knight Dr N,0,5,0.0,2017-04-30
+231,4/30/17,South Carolina,Loris,268 N Sea Green Rd,1,5,0.0,2017-04-30
+232,4/29/17,Maryland,Germantown,12800 block of Kitchen House Way,1,3,0.0,2017-04-29
+233,4/29/17,California,Los Angeles (Boyle Heights),Murchison St and Lancaster Ave,1,3,0.0,2017-04-29
+234,4/29/17,California,Sacramento,3800 block of 26th Avenue,0,5,0.0,2017-04-29
+235,4/29/17,California,Whittier,10000 block of Carmentia Rd,1,5,0.0,2017-04-29
+236,4/29/17,California,Compton,2000 Block of N Nestor Ave,0,4,0.0,2017-04-29
+237,4/29/17,Virginia,Virginia Beach,200 block of 18th St,0,4,0.0,2017-04-29
+238,4/28/17,Pennsylvania,Chester,5 E 21st St,0,4,0.0,2017-04-28
+239,4/27/17,New Jersey,Newark,1100 block of S Orange Ave,1,3,0.0,2017-04-27
+240,4/26/17,Florida,Miami,SW 264th St and 139th Ave,0,4,0.0,2017-04-26
+241,4/21/17,Florida,Palm Bay,2500 block of Vernon Dr,2,2,0.0,2017-04-21
+242,4/20/17,Kentucky,Louisville,700 block of East Jacob Street,0,4,0.0,2017-04-20
+243,4/16/17,California,Vallejo,110 Calhoun Street,0,4,0.0,2017-04-16
+244,4/16/17,North Carolina,Elizabeth City,611 S Martin St,0,4,0.0,2017-04-16
+245,4/16/17,Ohio,Columbus,1710 Cleveland Av,0,9,0.0,2017-04-16
+246,4/15/17,Illinois,Rock Falls,311 W  2nd St,0,4,0.0,2017-04-15
+247,4/15/17,Indiana,Indianapolis,300 block of S Meridian St,0,4,0.0,2017-04-15
+248,4/15/17,Alabama,Birmingham,1480 Center Point Pkwy,0,6,0.0,2017-04-15
+249,4/15/17,Pennsylvania,Philadelphia,5900 block of Hammond Street,0,4,0.0,2017-04-15
+250,4/15/17,Illinois,Harvey,14600 block of Myrtle Avenue,0,4,0.0,2017-04-15
+251,4/15/17,California,Banning,900 block of N Allen St,0,4,0.0,2017-04-15
+252,4/13/17,Georgia,Atlanta,30 Anderson Ave SW,1,3,0.0,2017-04-13
+253,4/9/17,Texas,San Antonio,3100 block of Fidelia Drive,1,3,0.0,2017-04-09
+254,4/9/17,Indiana,Fort Wayne,9439 Lima Rd,1,3,0.0,2017-04-09
+255,4/7/17,North Carolina,Hickory,1423 29th Ave Dr NE,3,1,0.0,2017-04-07
+256,4/7/17,Texas,Houston,3829 Mount Pleasant St,5,0,0.0,2017-04-07
+257,4/7/17,Minnesota,Saint Paul,1600 block of English St,4,1,0.0,2017-04-07
+258,4/7/17,Illinois,Chicago,5600 block of W Lake St,1,5,0.0,2017-04-07
+259,4/6/17,Louisiana,Lake Charles,2000 block of Tulip St,1,3,0.0,2017-04-06
+260,4/3/17,Pennsylvania,Philadelphia,1100 block of W Stiles St,3,1,0.0,2017-04-03
+261,4/3/17,Texas,Lubbock,5401 Ave Q,0,7,0.0,2017-04-03
+262,4/2/17,Illinois,Chicago,3500 block of West Van Buren Street,2,4,0.0,2017-04-02
+263,4/2/17,Iowa,Des Moines,2500 Martin Luther King Jr. Parkway,0,5,0.0,2017-04-02
+264,4/1/17,California,Pittsburg,100 block of Madoline Street,0,5,0.0,2017-04-01
+265,4/1/17,Florida,Tampa,219 S Howard Ave,1,4,0.0,2017-04-01
+266,4/1/17,Oklahoma,Oklahoma City,1200 block of N Woodward Avenue,2,3,0.0,2017-04-01
+267,3/30/17,Illinois,Chicago,2704 E 75th St,4,0,0.0,2017-03-30
+268,3/27/17,Florida,Sanford,209 Hays Dr,2,4,0.0,2017-03-27
+269,3/26/17,Texas,Houston,5619 Aldine Bender Rd,2,4,0.0,2017-03-26
+270,3/26/17,Ohio,Cincinnati,4601 Kellogg Ave,2,15,0.0,2017-03-26
+271,3/26/17,Ohio,Cleveland,E 75th St,2,2,0.0,2017-03-26
+272,3/25/17,Michigan,Detroit,8443 Grand River Ave,1,3,0.0,2017-03-25
+273,3/25/17,Tennessee,Knoxville,Minnesota Avenue,1,4,0.0,2017-03-25
+274,3/25/17,Ohio,Cleveland,E 79th St and Woodland Ave,2,2,0.0,2017-03-25
+275,3/24/17,California,Fresno,300 block of South Villa Avenue,1,4,0.0,2017-03-24
+276,3/24/17,Missouri,Saint Louis,5100 block of Palm St,1,6,0.0,2017-03-24
+277,3/22/17,Wisconsin,Rothschild,1133 E Grand Ave,5,0,0.0,2017-03-22
+278,3/19/17,Kentucky,Louisville,1512 Portland Avenue,1,5,0.0,2017-03-19
+279,3/18/17,Michigan,Detroit,16000 block of Rutherford,3,2,0.0,2017-03-18
+280,3/15/17,Louisiana,Metairie,2508 Pasadena Ave,3,1,0.0,2017-03-15
+281,3/10/17,Illinois,Chicago,123 E 51st St,2,2,0.0,2017-03-10
+282,3/10/17,Louisiana,New Orleans (Gentilly),4200 block of Touro St,3,1,0.0,2017-03-10
+283,3/7/17,Illinois,Chicago,West 76th Street and South May streets,0,4,0.0,2017-03-07
+284,3/5/17,Georgia,Columbus,600 block of 32nd Street,0,4,0.0,2017-03-05
+285,3/4/17,Kansas,Topeka,23rd and Bellview,1,4,0.0,2017-03-04
+286,3/4/17,California,Sacramento,2500 block of 33rd St,0,4,0.0,2017-03-04
+287,3/3/17,Pennsylvania,Philadelphia,7165 Germantown Ave,0,4,0.0,2017-03-03
+288,3/3/17,California,Riverside,8300 block of Trey Ave,0,5,0.0,2017-03-03
+289,2/28/17,Ohio,Cincinnati,1700 of Casey Drive,0,6,0.0,2017-02-28
+290,2/27/17,Virginia,Newport News,11810 Fountain Way,0,4,0.0,2017-02-27
+291,2/26/17,Indiana,Gary,1700 block of Grant St,1,4,0.0,2017-02-26
+292,2/25/17,Ohio,Warren,1564 Niles Cortland Rd SE,2,3,0.0,2017-02-25
+293,2/25/17,Florida,Jacksonville,3604 Moncrief Rd,1,4,0.0,2017-02-25
+294,2/22/17,New York,Rochester,191 Genesee St,0,4,0.0,2017-02-22
+295,2/21/17,Ohio,Cleveland,16700 Lorain Ave,0,4,0.0,2017-02-21
+296,2/21/17,Mississippi,Toomsuba,Butts Road,4,0,0.0,2017-02-21
+297,2/20/17,Ohio,Cleveland,1082 East 105th Street,0,5,0.0,2017-02-20
+298,2/19/17,Virginia,Norfolk,Church Street and East Virginia Beach Blvd,1,3,0.0,2017-02-19
+299,2/18/17,Pennsylvania,Philadelphia,1 block of N Conestoga,0,4,0.0,2017-02-18
+300,2/18/17,Indiana,South Bend,1000 block of Yukon St,1,3,0.0,2017-02-18
+301,2/15/17,California,Salinas,30 Soledad Street,0,4,0.0,2017-02-15
+302,2/15/17,Illinois,Chicago,3949 South Albany Avenue,3,2,0.0,2017-02-15
+303,2/12/17,Missouri,Caruthersville,908 Truman Blvd,1,6,0.0,2017-02-12
+304,2/12/17,New York,Newburgh,253 South William Street,1,3,0.0,2017-02-12
+305,2/12/17,Florida,Greenville,Church Ave and Obadiah St,0,5,0.0,2017-02-12
+306,2/11/17,Tennessee,Savannah,Clifton Road and Midway Drive,0,4,0.0,2017-02-11
+307,2/11/17,Illinois,Chicago,100 block of North Mayfield,1,3,0.0,2017-02-11
+308,2/10/17,Louisiana,New Orleans,2nd St and Dryades St,1,5,0.0,2017-02-10
+309,2/9/17,Mississippi,Jackson,3150 Robinson Road,4,0,0.0,2017-02-09
+310,2/8/17,Ohio,Cleveland,16379 Euclid Ave,1,4,0.0,2017-02-08
+311,2/7/17,South Carolina,Columbia,5500 block of Fairfield Road,0,4,0.0,2017-02-07
+312,2/7/17,Arkansas,Little Rock,25 Par Drive,1,4,0.0,2017-02-07
+313,2/6/17,Mississippi,Yazoo City,11th Street,4,0,0.0,2017-02-06
+314,1/31/17,Tennessee,Memphis,1576 S White Station Rd,0,4,0.0,2017-01-31
+315,1/31/17,District of Columbia,Washington,2900 block of Martin Luther King Jr Ave,0,4,0.0,2017-01-31
+316,1/30/17,Minnesota,Minneapolis (Crystal),5410 Lakeland Ave N,0,4,0.0,2017-01-30
+317,1/29/17,Louisiana,Shreveport,6363 Hearne Ave,1,4,0.0,2017-01-29
+318,1/27/17,Tennessee,Brownsville,221 Morgan St,0,10,0.0,2017-01-27
+319,1/26/17,Georgia,Albany,1510 Maryland Drive,2,3,0.0,2017-01-26
+320,1/25/17,Illinois,Chicago,500 block of E 75th St,0,6,0.0,2017-01-25
+321,1/22/17,Texas,Manvel,200 block of Oak Shore Dr,3,2,0.0,2017-01-22
+322,1/22/17,Illinois,Chicago (Englewood),1800 block of W 63rd,0,4,0.0,2017-01-22
+323,1/22/17,Georgia,Atlanta,2841 Greenbriar Pkwy SW,3,1,0.0,2017-01-22
+324,1/21/17,Georgia,Jonesboro,6510 Tara Blvd,0,6,0.0,2017-01-21
+325,1/21/17,Florida,Boynton Beach,500 NE 2nd St,0,5,0.0,2017-01-21
+326,1/21/17,Tennessee,Memphis,500 block of Delta Road,2,2,0.0,2017-01-21
+327,1/20/17,Mississippi,Como,Smart Road,1,4,0.0,2017-01-20
+328,1/20/17,California,Fresno,4700 block of E Montecito Ave,0,4,0.0,2017-01-20
+329,1/16/17,Texas,Houston,8535 Martin Luther King Boulevard,0,4,0.0,2017-01-16
+330,1/16/17,Florida,Miami,6011 NW 32nd Ave,0,8,0.0,2017-01-16
+331,1/15/17,Colorado,Capulin,County Road Y,3,1,0.0,2017-01-15
+332,1/15/17,Mississippi,Magnolia,6000 block of Church Road,1,4,0.0,2017-01-15
+333,1/12/17,Missouri,Kansas City,8607 E 61st Terrace,3,2,0.0,2017-01-12
+334,1/12/17,California,Salinas,500 block of Sunrise St,2,2,0.0,2017-01-12
+335,1/11/17,New Jersey,Newark,Hawkins Street and Christie Street,1,3,0.0,2017-01-11
+336,1/11/17,Illinois,Chicago,4200 block of S Talman,1,3,0.0,2017-01-11
+337,1/7/17,Michigan,Flint,2500 block of Churchill Ave,1,3,0.0,2017-01-07
+338,1/6/17,California,Pasadena,100 block of W Claremont St,2,2,0.0,2017-01-06
+339,1/6/17,Florida,Fort Lauderdale,100 Terminal Dr,5,6,0.0,2017-01-06
+340,1/4/17,California,Fontana,14520 Village Drive,3,1,0.0,2017-01-04
+341,1/3/17,Texas,Allen,500 block of Hawthorne Drive,0,4,0.0,2017-01-03
+342,1/1/17,Mississippi,Winstonville,114 North Greyer Street,0,5,0.0,2017-01-01
+343,1/1/17,Texas,Dallas,9220 Skillman Street,1,3,0.0,2017-01-01
+344,1/1/17,Florida,Miami,8000 block of NW 14th Ave,0,7,0.0,2017-01-01
