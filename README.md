@@ -25,4 +25,4 @@ Chris Harper-Mercer, a 26-year-old enrolled at the school, fatally shot an assis
 Design of the calendar is inspired by Mike Bostock.
 
 
-Project is visible at https://shiyingcheng.github.io/2014-17-Mass-Shootings-Calendar/
+Project is visible at https://shellyscheng.github.io/2014-17-Mass-Shootings-Calendar/
